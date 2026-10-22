@@ -1,0 +1,501 @@
+dataset,column,description,units,included_unchanged
+data/processed/GEDI_SIM_metrics.csv,ID,"Footprint identifier, unique within site",identifier,yes
+data/processed/GEDI_SIM_metrics.csv,tr_grnd,Original input column retained unchanged; detailed definition/unit requires source metadata,unconfirmed,yes
+data/processed/GEDI_SIM_metrics.csv,true_tp,Original input column retained unchanged; detailed definition/unit requires source metadata,unconfirmed,yes
+data/processed/GEDI_SIM_metrics.csv,grnd_sl,Original input column retained unchanged; detailed definition/unit requires source metadata,unconfirmed,yes
+data/processed/GEDI_SIM_metrics.csv,ALS_cvr,Original input column retained unchanged; detailed definition/unit requires source metadata,unconfirmed,yes
+data/processed/GEDI_SIM_metrics.csv,gHeight,Original input column retained unchanged; detailed definition/unit requires source metadata,unconfirmed,yes
+data/processed/GEDI_SIM_metrics.csv,maxGrnd,Original input column retained unchanged; detailed definition/unit requires source metadata,unconfirmed,yes
+data/processed/GEDI_SIM_metrics.csv,inflGrn,Original input column retained unchanged; detailed definition/unit requires source metadata,unconfirmed,yes
+data/processed/GEDI_SIM_metrics.csv,sgnl_tp,Original input column retained unchanged; detailed definition/unit requires source metadata,unconfirmed,yes
+data/processed/GEDI_SIM_metrics.csv,sgnl_bt,Original input column retained unchanged; detailed definition/unit requires source metadata,unconfirmed,yes
+data/processed/GEDI_SIM_metrics.csv,cover,Original input column retained unchanged; detailed definition/unit requires source metadata,unconfirmed,yes
+data/processed/GEDI_SIM_metrics.csv,ldng_d_,Original input column retained unchanged; detailed definition/unit requires source metadata,unconfirmed,yes
+data/processed/GEDI_SIM_metrics.csv,trlng__,Original input column retained unchanged; detailed definition/unit requires source metadata,unconfirmed,yes
+data/processed/GEDI_SIM_metrics.csv,Gs_RH0,Uncorrected simulator-derived relative-height percentile 0,m,yes
+data/processed/GEDI_SIM_metrics.csv,Gs_RH1,Uncorrected simulator-derived relative-height percentile 1,m,yes
+data/processed/GEDI_SIM_metrics.csv,Gs_RH2,Uncorrected simulator-derived relative-height percentile 2,m,yes
+data/processed/GEDI_SIM_metrics.csv,Gs_RH3,Uncorrected simulator-derived relative-height percentile 3,m,yes
+data/processed/GEDI_SIM_metrics.csv,Gs_RH4,Uncorrected simulator-derived relative-height percentile 4,m,yes
+data/processed/GEDI_SIM_metrics.csv,Gs_RH5,Uncorrected simulator-derived relative-height percentile 5,m,yes
+data/processed/GEDI_SIM_metrics.csv,Gs_RH6,Uncorrected simulator-derived relative-height percentile 6,m,yes
+data/processed/GEDI_SIM_metrics.csv,Gs_RH7,Uncorrected simulator-derived relative-height percentile 7,m,yes
+data/processed/GEDI_SIM_metrics.csv,Gs_RH8,Uncorrected simulator-derived relative-height percentile 8,m,yes
+data/processed/GEDI_SIM_metrics.csv,Gs_RH9,Uncorrected simulator-derived relative-height percentile 9,m,yes
+data/processed/GEDI_SIM_metrics.csv,Gs_RH10,Uncorrected simulator-derived relative-height percentile 10,m,yes
+data/processed/GEDI_SIM_metrics.csv,Gs_RH11,Uncorrected simulator-derived relative-height percentile 11,m,yes
+data/processed/GEDI_SIM_metrics.csv,Gs_RH12,Uncorrected simulator-derived relative-height percentile 12,m,yes
+data/processed/GEDI_SIM_metrics.csv,Gs_RH13,Uncorrected simulator-derived relative-height percentile 13,m,yes
+data/processed/GEDI_SIM_metrics.csv,Gs_RH14,Uncorrected simulator-derived relative-height percentile 14,m,yes
+data/processed/GEDI_SIM_metrics.csv,Gs_RH15,Uncorrected simulator-derived relative-height percentile 15,m,yes
+data/processed/GEDI_SIM_metrics.csv,Gs_RH16,Uncorrected simulator-derived relative-height percentile 16,m,yes
+data/processed/GEDI_SIM_metrics.csv,Gs_RH17,Uncorrected simulator-derived relative-height percentile 17,m,yes
+data/processed/GEDI_SIM_metrics.csv,Gs_RH18,Uncorrected simulator-derived relative-height percentile 18,m,yes
+data/processed/GEDI_SIM_metrics.csv,Gs_RH19,Uncorrected simulator-derived relative-height percentile 19,m,yes
+data/processed/GEDI_SIM_metrics.csv,Gs_RH20,Uncorrected simulator-derived relative-height percentile 20,m,yes
+data/processed/GEDI_SIM_metrics.csv,Gs_RH21,Uncorrected simulator-derived relative-height percentile 21,m,yes
+data/processed/GEDI_SIM_metrics.csv,Gs_RH22,Uncorrected simulator-derived relative-height percentile 22,m,yes
+data/processed/GEDI_SIM_metrics.csv,Gs_RH23,Uncorrected simulator-derived relative-height percentile 23,m,yes
+data/processed/GEDI_SIM_metrics.csv,Gs_RH24,Uncorrected simulator-derived relative-height percentile 24,m,yes
+data/processed/GEDI_SIM_metrics.csv,Gs_RH25,Uncorrected simulator-derived relative-height percentile 25,m,yes
+data/processed/GEDI_SIM_metrics.csv,Gs_RH26,Uncorrected simulator-derived relative-height percentile 26,m,yes
+data/processed/GEDI_SIM_metrics.csv,Gs_RH27,Uncorrected simulator-derived relative-height percentile 27,m,yes
+data/processed/GEDI_SIM_metrics.csv,Gs_RH28,Uncorrected simulator-derived relative-height percentile 28,m,yes
+data/processed/GEDI_SIM_metrics.csv,Gs_RH29,Uncorrected simulator-derived relative-height percentile 29,m,yes
+data/processed/GEDI_SIM_metrics.csv,Gs_RH30,Uncorrected simulator-derived relative-height percentile 30,m,yes
+data/processed/GEDI_SIM_metrics.csv,Gs_RH31,Uncorrected simulator-derived relative-height percentile 31,m,yes
+data/processed/GEDI_SIM_metrics.csv,Gs_RH32,Uncorrected simulator-derived relative-height percentile 32,m,yes
+data/processed/GEDI_SIM_metrics.csv,Gs_RH33,Uncorrected simulator-derived relative-height percentile 33,m,yes
+data/processed/GEDI_SIM_metrics.csv,Gs_RH34,Uncorrected simulator-derived relative-height percentile 34,m,yes
+data/processed/GEDI_SIM_metrics.csv,Gs_RH35,Uncorrected simulator-derived relative-height percentile 35,m,yes
+data/processed/GEDI_SIM_metrics.csv,Gs_RH36,Uncorrected simulator-derived relative-height percentile 36,m,yes
+data/processed/GEDI_SIM_metrics.csv,Gs_RH37,Uncorrected simulator-derived relative-height percentile 37,m,yes
+data/processed/GEDI_SIM_metrics.csv,Gs_RH38,Uncorrected simulator-derived relative-height percentile 38,m,yes
+data/processed/GEDI_SIM_metrics.csv,Gs_RH39,Uncorrected simulator-derived relative-height percentile 39,m,yes
+data/processed/GEDI_SIM_metrics.csv,Gs_RH40,Uncorrected simulator-derived relative-height percentile 40,m,yes
+data/processed/GEDI_SIM_metrics.csv,Gs_RH41,Uncorrected simulator-derived relative-height percentile 41,m,yes
+data/processed/GEDI_SIM_metrics.csv,Gs_RH42,Uncorrected simulator-derived relative-height percentile 42,m,yes
+data/processed/GEDI_SIM_metrics.csv,Gs_RH43,Uncorrected simulator-derived relative-height percentile 43,m,yes
+data/processed/GEDI_SIM_metrics.csv,Gs_RH44,Uncorrected simulator-derived relative-height percentile 44,m,yes
+data/processed/GEDI_SIM_metrics.csv,Gs_RH45,Uncorrected simulator-derived relative-height percentile 45,m,yes
+data/processed/GEDI_SIM_metrics.csv,Gs_RH46,Uncorrected simulator-derived relative-height percentile 46,m,yes
+data/processed/GEDI_SIM_metrics.csv,Gs_RH47,Uncorrected simulator-derived relative-height percentile 47,m,yes
+data/processed/GEDI_SIM_metrics.csv,Gs_RH48,Uncorrected simulator-derived relative-height percentile 48,m,yes
+data/processed/GEDI_SIM_metrics.csv,Gs_RH49,Uncorrected simulator-derived relative-height percentile 49,m,yes
+data/processed/GEDI_SIM_metrics.csv,Gs_RH50,Uncorrected simulator-derived relative-height percentile 50,m,yes
+data/processed/GEDI_SIM_metrics.csv,Gs_RH51,Uncorrected simulator-derived relative-height percentile 51,m,yes
+data/processed/GEDI_SIM_metrics.csv,Gs_RH52,Uncorrected simulator-derived relative-height percentile 52,m,yes
+data/processed/GEDI_SIM_metrics.csv,Gs_RH53,Uncorrected simulator-derived relative-height percentile 53,m,yes
+data/processed/GEDI_SIM_metrics.csv,Gs_RH54,Uncorrected simulator-derived relative-height percentile 54,m,yes
+data/processed/GEDI_SIM_metrics.csv,Gs_RH55,Uncorrected simulator-derived relative-height percentile 55,m,yes
+data/processed/GEDI_SIM_metrics.csv,Gs_RH56,Uncorrected simulator-derived relative-height percentile 56,m,yes
+data/processed/GEDI_SIM_metrics.csv,Gs_RH57,Uncorrected simulator-derived relative-height percentile 57,m,yes
+data/processed/GEDI_SIM_metrics.csv,Gs_RH58,Uncorrected simulator-derived relative-height percentile 58,m,yes
+data/processed/GEDI_SIM_metrics.csv,Gs_RH59,Uncorrected simulator-derived relative-height percentile 59,m,yes
+data/processed/GEDI_SIM_metrics.csv,Gs_RH60,Uncorrected simulator-derived relative-height percentile 60,m,yes
+data/processed/GEDI_SIM_metrics.csv,Gs_RH61,Uncorrected simulator-derived relative-height percentile 61,m,yes
+data/processed/GEDI_SIM_metrics.csv,Gs_RH62,Uncorrected simulator-derived relative-height percentile 62,m,yes
+data/processed/GEDI_SIM_metrics.csv,Gs_RH63,Uncorrected simulator-derived relative-height percentile 63,m,yes
+data/processed/GEDI_SIM_metrics.csv,Gs_RH64,Uncorrected simulator-derived relative-height percentile 64,m,yes
+data/processed/GEDI_SIM_metrics.csv,Gs_RH65,Uncorrected simulator-derived relative-height percentile 65,m,yes
+data/processed/GEDI_SIM_metrics.csv,Gs_RH66,Uncorrected simulator-derived relative-height percentile 66,m,yes
+data/processed/GEDI_SIM_metrics.csv,Gs_RH67,Uncorrected simulator-derived relative-height percentile 67,m,yes
+data/processed/GEDI_SIM_metrics.csv,Gs_RH68,Uncorrected simulator-derived relative-height percentile 68,m,yes
+data/processed/GEDI_SIM_metrics.csv,Gs_RH69,Uncorrected simulator-derived relative-height percentile 69,m,yes
+data/processed/GEDI_SIM_metrics.csv,Gs_RH70,Uncorrected simulator-derived relative-height percentile 70,m,yes
+data/processed/GEDI_SIM_metrics.csv,Gs_RH71,Uncorrected simulator-derived relative-height percentile 71,m,yes
+data/processed/GEDI_SIM_metrics.csv,Gs_RH72,Uncorrected simulator-derived relative-height percentile 72,m,yes
+data/processed/GEDI_SIM_metrics.csv,Gs_RH73,Uncorrected simulator-derived relative-height percentile 73,m,yes
+data/processed/GEDI_SIM_metrics.csv,Gs_RH74,Uncorrected simulator-derived relative-height percentile 74,m,yes
+data/processed/GEDI_SIM_metrics.csv,Gs_RH75,Uncorrected simulator-derived relative-height percentile 75,m,yes
+data/processed/GEDI_SIM_metrics.csv,Gs_RH76,Uncorrected simulator-derived relative-height percentile 76,m,yes
+data/processed/GEDI_SIM_metrics.csv,Gs_RH77,Uncorrected simulator-derived relative-height percentile 77,m,yes
+data/processed/GEDI_SIM_metrics.csv,Gs_RH78,Uncorrected simulator-derived relative-height percentile 78,m,yes
+data/processed/GEDI_SIM_metrics.csv,Gs_RH79,Uncorrected simulator-derived relative-height percentile 79,m,yes
+data/processed/GEDI_SIM_metrics.csv,Gs_RH80,Uncorrected simulator-derived relative-height percentile 80,m,yes
+data/processed/GEDI_SIM_metrics.csv,Gs_RH81,Uncorrected simulator-derived relative-height percentile 81,m,yes
+data/processed/GEDI_SIM_metrics.csv,Gs_RH82,Uncorrected simulator-derived relative-height percentile 82,m,yes
+data/processed/GEDI_SIM_metrics.csv,Gs_RH83,Uncorrected simulator-derived relative-height percentile 83,m,yes
+data/processed/GEDI_SIM_metrics.csv,Gs_RH84,Uncorrected simulator-derived relative-height percentile 84,m,yes
+data/processed/GEDI_SIM_metrics.csv,Gs_RH85,Uncorrected simulator-derived relative-height percentile 85,m,yes
+data/processed/GEDI_SIM_metrics.csv,Gs_RH86,Uncorrected simulator-derived relative-height percentile 86,m,yes
+data/processed/GEDI_SIM_metrics.csv,Gs_RH87,Uncorrected simulator-derived relative-height percentile 87,m,yes
+data/processed/GEDI_SIM_metrics.csv,Gs_RH88,Uncorrected simulator-derived relative-height percentile 88,m,yes
+data/processed/GEDI_SIM_metrics.csv,Gs_RH89,Uncorrected simulator-derived relative-height percentile 89,m,yes
+data/processed/GEDI_SIM_metrics.csv,Gs_RH90,Uncorrected simulator-derived relative-height percentile 90,m,yes
+data/processed/GEDI_SIM_metrics.csv,Gs_RH91,Uncorrected simulator-derived relative-height percentile 91,m,yes
+data/processed/GEDI_SIM_metrics.csv,Gs_RH92,Uncorrected simulator-derived relative-height percentile 92,m,yes
+data/processed/GEDI_SIM_metrics.csv,Gs_RH93,Uncorrected simulator-derived relative-height percentile 93,m,yes
+data/processed/GEDI_SIM_metrics.csv,Gs_RH94,Uncorrected simulator-derived relative-height percentile 94,m,yes
+data/processed/GEDI_SIM_metrics.csv,Gs_RH95,Uncorrected simulator-derived relative-height percentile 95,m,yes
+data/processed/GEDI_SIM_metrics.csv,Gs_RH96,Uncorrected simulator-derived relative-height percentile 96,m,yes
+data/processed/GEDI_SIM_metrics.csv,Gs_RH97,Uncorrected simulator-derived relative-height percentile 97,m,yes
+data/processed/GEDI_SIM_metrics.csv,Gs_RH98,Uncorrected simulator-derived relative-height percentile 98,m,yes
+data/processed/GEDI_SIM_metrics.csv,Gs_RH99,Uncorrected simulator-derived relative-height percentile 99,m,yes
+data/processed/GEDI_SIM_metrics.csv,Gs_RH100,Uncorrected simulator-derived relative-height percentile 100,m,yes
+data/processed/GEDI_SIM_metrics.csv,site,UAV flight-block identifier,identifier,yes
+data/processed/GEDI_SIM_metrics.csv,ZS,Original input column retained unchanged; detailed definition/unit requires source metadata,unconfirmed,yes
+data/processed/GEDI_SIM_metrics.csv,Aver_TH,Original input column retained unchanged; detailed definition/unit requires source metadata,unconfirmed,yes
+data/processed/GEDI_SIM_metrics.csv,PC_YBD,Original input column retained unchanged; detailed definition/unit requires source metadata,unconfirmed,yes
+data/processed/GEDI_SIM_metrics.csv,ALS_AGB,"Model-derived, field-calibrated UAV AGBD reference; not direct field biomass at every footprint",Mg ha^-1,yes
+data/processed/GEDI_SIM_metrics.csv,y,Original input column retained unchanged; detailed definition/unit requires source metadata,unconfirmed,yes
+data/processed/GEDI_SIM_metrics.csv,ALS_DEM,UAV-derived elevation,m,yes
+data/processed/GEDI_SIM_metrics.csv,ALS_RH10,"UAV reference relative-height percentile 10; the supplied source contains CHM-grid quantiles, whose agreement with the manuscript Gaussian-weighted point-quantile description requires confirmation",m,yes
+data/processed/GEDI_SIM_metrics.csv,ALS_RH100,"UAV reference relative-height percentile 100; the supplied source contains CHM-grid quantiles, whose agreement with the manuscript Gaussian-weighted point-quantile description requires confirmation",m,yes
+data/processed/GEDI_SIM_metrics.csv,ALS_RH15,"UAV reference relative-height percentile 15; the supplied source contains CHM-grid quantiles, whose agreement with the manuscript Gaussian-weighted point-quantile description requires confirmation",m,yes
+data/processed/GEDI_SIM_metrics.csv,ALS_RH20,"UAV reference relative-height percentile 20; the supplied source contains CHM-grid quantiles, whose agreement with the manuscript Gaussian-weighted point-quantile description requires confirmation",m,yes
+data/processed/GEDI_SIM_metrics.csv,ALS_RH25,"UAV reference relative-height percentile 25; the supplied source contains CHM-grid quantiles, whose agreement with the manuscript Gaussian-weighted point-quantile description requires confirmation",m,yes
+data/processed/GEDI_SIM_metrics.csv,ALS_RH30,"UAV reference relative-height percentile 30; the supplied source contains CHM-grid quantiles, whose agreement with the manuscript Gaussian-weighted point-quantile description requires confirmation",m,yes
+data/processed/GEDI_SIM_metrics.csv,ALS_RH35,"UAV reference relative-height percentile 35; the supplied source contains CHM-grid quantiles, whose agreement with the manuscript Gaussian-weighted point-quantile description requires confirmation",m,yes
+data/processed/GEDI_SIM_metrics.csv,ALS_RH40,"UAV reference relative-height percentile 40; the supplied source contains CHM-grid quantiles, whose agreement with the manuscript Gaussian-weighted point-quantile description requires confirmation",m,yes
+data/processed/GEDI_SIM_metrics.csv,ALS_RH45,"UAV reference relative-height percentile 45; the supplied source contains CHM-grid quantiles, whose agreement with the manuscript Gaussian-weighted point-quantile description requires confirmation",m,yes
+data/processed/GEDI_SIM_metrics.csv,ALS_RH5,"UAV reference relative-height percentile 5; the supplied source contains CHM-grid quantiles, whose agreement with the manuscript Gaussian-weighted point-quantile description requires confirmation",m,yes
+data/processed/GEDI_SIM_metrics.csv,ALS_RH50,"UAV reference relative-height percentile 50; the supplied source contains CHM-grid quantiles, whose agreement with the manuscript Gaussian-weighted point-quantile description requires confirmation",m,yes
+data/processed/GEDI_SIM_metrics.csv,ALS_RH55,"UAV reference relative-height percentile 55; the supplied source contains CHM-grid quantiles, whose agreement with the manuscript Gaussian-weighted point-quantile description requires confirmation",m,yes
+data/processed/GEDI_SIM_metrics.csv,ALS_RH60,"UAV reference relative-height percentile 60; the supplied source contains CHM-grid quantiles, whose agreement with the manuscript Gaussian-weighted point-quantile description requires confirmation",m,yes
+data/processed/GEDI_SIM_metrics.csv,ALS_RH65,"UAV reference relative-height percentile 65; the supplied source contains CHM-grid quantiles, whose agreement with the manuscript Gaussian-weighted point-quantile description requires confirmation",m,yes
+data/processed/GEDI_SIM_metrics.csv,ALS_RH70,"UAV reference relative-height percentile 70; the supplied source contains CHM-grid quantiles, whose agreement with the manuscript Gaussian-weighted point-quantile description requires confirmation",m,yes
+data/processed/GEDI_SIM_metrics.csv,ALS_RH75,"UAV reference relative-height percentile 75; the supplied source contains CHM-grid quantiles, whose agreement with the manuscript Gaussian-weighted point-quantile description requires confirmation",m,yes
+data/processed/GEDI_SIM_metrics.csv,ALS_RH80,"UAV reference relative-height percentile 80; the supplied source contains CHM-grid quantiles, whose agreement with the manuscript Gaussian-weighted point-quantile description requires confirmation",m,yes
+data/processed/GEDI_SIM_metrics.csv,ALS_RH85,"UAV reference relative-height percentile 85; the supplied source contains CHM-grid quantiles, whose agreement with the manuscript Gaussian-weighted point-quantile description requires confirmation",m,yes
+data/processed/GEDI_SIM_metrics.csv,ALS_RH90,"UAV reference relative-height percentile 90; the supplied source contains CHM-grid quantiles, whose agreement with the manuscript Gaussian-weighted point-quantile description requires confirmation",m,yes
+data/processed/GEDI_SIM_metrics.csv,ALS_RH95,"UAV reference relative-height percentile 95; the supplied source contains CHM-grid quantiles, whose agreement with the manuscript Gaussian-weighted point-quantile description requires confirmation",m,yes
+data/processed/GEDI_SIM_metrics.csv,ALS_Slope,UAV-derived terrain slope,degrees,yes
+data/processed/GEDI_SIM_metrics.csv,forest_type,"Forest-type code; manuscript plotting uses 52 evergreen broadleaved, 62 deciduous broadleaved, 72 evergreen needle-leaved",code,yes
+data/processed/GEDI_SIM_metrics.csv,Delta_RH5,Simulator RH minus UAV reference RH at percentile 5,m,yes
+data/processed/GEDI_SIM_metrics.csv,Delta_RH10,Simulator RH minus UAV reference RH at percentile 10,m,yes
+data/processed/GEDI_SIM_metrics.csv,Delta_RH15,Simulator RH minus UAV reference RH at percentile 15,m,yes
+data/processed/GEDI_SIM_metrics.csv,Delta_RH20,Simulator RH minus UAV reference RH at percentile 20,m,yes
+data/processed/GEDI_SIM_metrics.csv,Delta_RH25,Simulator RH minus UAV reference RH at percentile 25,m,yes
+data/processed/GEDI_SIM_metrics.csv,Delta_RH30,Simulator RH minus UAV reference RH at percentile 30,m,yes
+data/processed/GEDI_SIM_metrics.csv,Delta_RH35,Simulator RH minus UAV reference RH at percentile 35,m,yes
+data/processed/GEDI_SIM_metrics.csv,Delta_RH40,Simulator RH minus UAV reference RH at percentile 40,m,yes
+data/processed/GEDI_SIM_metrics.csv,Delta_RH45,Simulator RH minus UAV reference RH at percentile 45,m,yes
+data/processed/GEDI_SIM_metrics.csv,Delta_RH50,Simulator RH minus UAV reference RH at percentile 50,m,yes
+data/processed/GEDI_SIM_metrics.csv,Delta_RH55,Simulator RH minus UAV reference RH at percentile 55,m,yes
+data/processed/GEDI_SIM_metrics.csv,Delta_RH60,Simulator RH minus UAV reference RH at percentile 60,m,yes
+data/processed/GEDI_SIM_metrics.csv,Delta_RH65,Simulator RH minus UAV reference RH at percentile 65,m,yes
+data/processed/GEDI_SIM_metrics.csv,Delta_RH70,Simulator RH minus UAV reference RH at percentile 70,m,yes
+data/processed/GEDI_SIM_metrics.csv,Delta_RH75,Simulator RH minus UAV reference RH at percentile 75,m,yes
+data/processed/GEDI_SIM_metrics.csv,Delta_RH80,Simulator RH minus UAV reference RH at percentile 80,m,yes
+data/processed/GEDI_SIM_metrics.csv,Delta_RH85,Simulator RH minus UAV reference RH at percentile 85,m,yes
+data/processed/GEDI_SIM_metrics.csv,Delta_RH90,Simulator RH minus UAV reference RH at percentile 90,m,yes
+data/processed/GEDI_SIM_metrics.csv,Delta_RH95,Simulator RH minus UAV reference RH at percentile 95,m,yes
+data/processed/GEDI_SIM_metrics.csv,Delta_RH100,Simulator RH minus UAV reference RH at percentile 100,m,yes
+data/processed/data_pred_all_data_v2.csv,ID,"Footprint identifier, unique within site",identifier,yes
+data/processed/data_pred_all_data_v2.csv,tr_grnd,Original input column retained unchanged; detailed definition/unit requires source metadata,unconfirmed,yes
+data/processed/data_pred_all_data_v2.csv,true_tp,Original input column retained unchanged; detailed definition/unit requires source metadata,unconfirmed,yes
+data/processed/data_pred_all_data_v2.csv,grnd_sl,Original input column retained unchanged; detailed definition/unit requires source metadata,unconfirmed,yes
+data/processed/data_pred_all_data_v2.csv,ALS_cvr,Original input column retained unchanged; detailed definition/unit requires source metadata,unconfirmed,yes
+data/processed/data_pred_all_data_v2.csv,gHeight,Original input column retained unchanged; detailed definition/unit requires source metadata,unconfirmed,yes
+data/processed/data_pred_all_data_v2.csv,sgnl_tp,Original input column retained unchanged; detailed definition/unit requires source metadata,unconfirmed,yes
+data/processed/data_pred_all_data_v2.csv,sgnl_bt,Original input column retained unchanged; detailed definition/unit requires source metadata,unconfirmed,yes
+data/processed/data_pred_all_data_v2.csv,cover,Original input column retained unchanged; detailed definition/unit requires source metadata,unconfirmed,yes
+data/processed/data_pred_all_data_v2.csv,ldng_d_,Original input column retained unchanged; detailed definition/unit requires source metadata,unconfirmed,yes
+data/processed/data_pred_all_data_v2.csv,trlng__,Original input column retained unchanged; detailed definition/unit requires source metadata,unconfirmed,yes
+data/processed/data_pred_all_data_v2.csv,Gs_RH0,Uncorrected simulator-derived relative-height percentile 0,m,yes
+data/processed/data_pred_all_data_v2.csv,Gs_RH1,Uncorrected simulator-derived relative-height percentile 1,m,yes
+data/processed/data_pred_all_data_v2.csv,Gs_RH2,Uncorrected simulator-derived relative-height percentile 2,m,yes
+data/processed/data_pred_all_data_v2.csv,Gs_RH3,Uncorrected simulator-derived relative-height percentile 3,m,yes
+data/processed/data_pred_all_data_v2.csv,Gs_RH4,Uncorrected simulator-derived relative-height percentile 4,m,yes
+data/processed/data_pred_all_data_v2.csv,Gs_RH5,Uncorrected simulator-derived relative-height percentile 5,m,yes
+data/processed/data_pred_all_data_v2.csv,Gs_RH6,Uncorrected simulator-derived relative-height percentile 6,m,yes
+data/processed/data_pred_all_data_v2.csv,Gs_RH7,Uncorrected simulator-derived relative-height percentile 7,m,yes
+data/processed/data_pred_all_data_v2.csv,Gs_RH8,Uncorrected simulator-derived relative-height percentile 8,m,yes
+data/processed/data_pred_all_data_v2.csv,Gs_RH9,Uncorrected simulator-derived relative-height percentile 9,m,yes
+data/processed/data_pred_all_data_v2.csv,Gs_RH10,Uncorrected simulator-derived relative-height percentile 10,m,yes
+data/processed/data_pred_all_data_v2.csv,Gs_RH11,Uncorrected simulator-derived relative-height percentile 11,m,yes
+data/processed/data_pred_all_data_v2.csv,Gs_RH12,Uncorrected simulator-derived relative-height percentile 12,m,yes
+data/processed/data_pred_all_data_v2.csv,Gs_RH13,Uncorrected simulator-derived relative-height percentile 13,m,yes
+data/processed/data_pred_all_data_v2.csv,Gs_RH14,Uncorrected simulator-derived relative-height percentile 14,m,yes
+data/processed/data_pred_all_data_v2.csv,Gs_RH15,Uncorrected simulator-derived relative-height percentile 15,m,yes
+data/processed/data_pred_all_data_v2.csv,Gs_RH16,Uncorrected simulator-derived relative-height percentile 16,m,yes
+data/processed/data_pred_all_data_v2.csv,Gs_RH17,Uncorrected simulator-derived relative-height percentile 17,m,yes
+data/processed/data_pred_all_data_v2.csv,Gs_RH18,Uncorrected simulator-derived relative-height percentile 18,m,yes
+data/processed/data_pred_all_data_v2.csv,Gs_RH19,Uncorrected simulator-derived relative-height percentile 19,m,yes
+data/processed/data_pred_all_data_v2.csv,Gs_RH20,Uncorrected simulator-derived relative-height percentile 20,m,yes
+data/processed/data_pred_all_data_v2.csv,Gs_RH21,Uncorrected simulator-derived relative-height percentile 21,m,yes
+data/processed/data_pred_all_data_v2.csv,Gs_RH22,Uncorrected simulator-derived relative-height percentile 22,m,yes
+data/processed/data_pred_all_data_v2.csv,Gs_RH23,Uncorrected simulator-derived relative-height percentile 23,m,yes
+data/processed/data_pred_all_data_v2.csv,Gs_RH24,Uncorrected simulator-derived relative-height percentile 24,m,yes
+data/processed/data_pred_all_data_v2.csv,Gs_RH25,Uncorrected simulator-derived relative-height percentile 25,m,yes
+data/processed/data_pred_all_data_v2.csv,Gs_RH26,Uncorrected simulator-derived relative-height percentile 26,m,yes
+data/processed/data_pred_all_data_v2.csv,Gs_RH27,Uncorrected simulator-derived relative-height percentile 27,m,yes
+data/processed/data_pred_all_data_v2.csv,Gs_RH28,Uncorrected simulator-derived relative-height percentile 28,m,yes
+data/processed/data_pred_all_data_v2.csv,Gs_RH29,Uncorrected simulator-derived relative-height percentile 29,m,yes
+data/processed/data_pred_all_data_v2.csv,Gs_RH30,Uncorrected simulator-derived relative-height percentile 30,m,yes
+data/processed/data_pred_all_data_v2.csv,Gs_RH31,Uncorrected simulator-derived relative-height percentile 31,m,yes
+data/processed/data_pred_all_data_v2.csv,Gs_RH32,Uncorrected simulator-derived relative-height percentile 32,m,yes
+data/processed/data_pred_all_data_v2.csv,Gs_RH33,Uncorrected simulator-derived relative-height percentile 33,m,yes
+data/processed/data_pred_all_data_v2.csv,Gs_RH34,Uncorrected simulator-derived relative-height percentile 34,m,yes
+data/processed/data_pred_all_data_v2.csv,Gs_RH35,Uncorrected simulator-derived relative-height percentile 35,m,yes
+data/processed/data_pred_all_data_v2.csv,Gs_RH36,Uncorrected simulator-derived relative-height percentile 36,m,yes
+data/processed/data_pred_all_data_v2.csv,Gs_RH37,Uncorrected simulator-derived relative-height percentile 37,m,yes
+data/processed/data_pred_all_data_v2.csv,Gs_RH38,Uncorrected simulator-derived relative-height percentile 38,m,yes
+data/processed/data_pred_all_data_v2.csv,Gs_RH39,Uncorrected simulator-derived relative-height percentile 39,m,yes
+data/processed/data_pred_all_data_v2.csv,Gs_RH40,Uncorrected simulator-derived relative-height percentile 40,m,yes
+data/processed/data_pred_all_data_v2.csv,Gs_RH41,Uncorrected simulator-derived relative-height percentile 41,m,yes
+data/processed/data_pred_all_data_v2.csv,Gs_RH42,Uncorrected simulator-derived relative-height percentile 42,m,yes
+data/processed/data_pred_all_data_v2.csv,Gs_RH43,Uncorrected simulator-derived relative-height percentile 43,m,yes
+data/processed/data_pred_all_data_v2.csv,Gs_RH44,Uncorrected simulator-derived relative-height percentile 44,m,yes
+data/processed/data_pred_all_data_v2.csv,Gs_RH45,Uncorrected simulator-derived relative-height percentile 45,m,yes
+data/processed/data_pred_all_data_v2.csv,Gs_RH46,Uncorrected simulator-derived relative-height percentile 46,m,yes
+data/processed/data_pred_all_data_v2.csv,Gs_RH47,Uncorrected simulator-derived relative-height percentile 47,m,yes
+data/processed/data_pred_all_data_v2.csv,Gs_RH48,Uncorrected simulator-derived relative-height percentile 48,m,yes
+data/processed/data_pred_all_data_v2.csv,Gs_RH49,Uncorrected simulator-derived relative-height percentile 49,m,yes
+data/processed/data_pred_all_data_v2.csv,Gs_RH50,Uncorrected simulator-derived relative-height percentile 50,m,yes
+data/processed/data_pred_all_data_v2.csv,Gs_RH51,Uncorrected simulator-derived relative-height percentile 51,m,yes
+data/processed/data_pred_all_data_v2.csv,Gs_RH52,Uncorrected simulator-derived relative-height percentile 52,m,yes
+data/processed/data_pred_all_data_v2.csv,Gs_RH53,Uncorrected simulator-derived relative-height percentile 53,m,yes
+data/processed/data_pred_all_data_v2.csv,Gs_RH54,Uncorrected simulator-derived relative-height percentile 54,m,yes
+data/processed/data_pred_all_data_v2.csv,Gs_RH55,Uncorrected simulator-derived relative-height percentile 55,m,yes
+data/processed/data_pred_all_data_v2.csv,Gs_RH56,Uncorrected simulator-derived relative-height percentile 56,m,yes
+data/processed/data_pred_all_data_v2.csv,Gs_RH57,Uncorrected simulator-derived relative-height percentile 57,m,yes
+data/processed/data_pred_all_data_v2.csv,Gs_RH58,Uncorrected simulator-derived relative-height percentile 58,m,yes
+data/processed/data_pred_all_data_v2.csv,Gs_RH59,Uncorrected simulator-derived relative-height percentile 59,m,yes
+data/processed/data_pred_all_data_v2.csv,Gs_RH60,Uncorrected simulator-derived relative-height percentile 60,m,yes
+data/processed/data_pred_all_data_v2.csv,Gs_RH61,Uncorrected simulator-derived relative-height percentile 61,m,yes
+data/processed/data_pred_all_data_v2.csv,Gs_RH62,Uncorrected simulator-derived relative-height percentile 62,m,yes
+data/processed/data_pred_all_data_v2.csv,Gs_RH63,Uncorrected simulator-derived relative-height percentile 63,m,yes
+data/processed/data_pred_all_data_v2.csv,Gs_RH64,Uncorrected simulator-derived relative-height percentile 64,m,yes
+data/processed/data_pred_all_data_v2.csv,Gs_RH65,Uncorrected simulator-derived relative-height percentile 65,m,yes
+data/processed/data_pred_all_data_v2.csv,Gs_RH66,Uncorrected simulator-derived relative-height percentile 66,m,yes
+data/processed/data_pred_all_data_v2.csv,Gs_RH67,Uncorrected simulator-derived relative-height percentile 67,m,yes
+data/processed/data_pred_all_data_v2.csv,Gs_RH68,Uncorrected simulator-derived relative-height percentile 68,m,yes
+data/processed/data_pred_all_data_v2.csv,Gs_RH69,Uncorrected simulator-derived relative-height percentile 69,m,yes
+data/processed/data_pred_all_data_v2.csv,Gs_RH70,Uncorrected simulator-derived relative-height percentile 70,m,yes
+data/processed/data_pred_all_data_v2.csv,Gs_RH71,Uncorrected simulator-derived relative-height percentile 71,m,yes
+data/processed/data_pred_all_data_v2.csv,Gs_RH72,Uncorrected simulator-derived relative-height percentile 72,m,yes
+data/processed/data_pred_all_data_v2.csv,Gs_RH73,Uncorrected simulator-derived relative-height percentile 73,m,yes
+data/processed/data_pred_all_data_v2.csv,Gs_RH74,Uncorrected simulator-derived relative-height percentile 74,m,yes
+data/processed/data_pred_all_data_v2.csv,Gs_RH75,Uncorrected simulator-derived relative-height percentile 75,m,yes
+data/processed/data_pred_all_data_v2.csv,Gs_RH76,Uncorrected simulator-derived relative-height percentile 76,m,yes
+data/processed/data_pred_all_data_v2.csv,Gs_RH77,Uncorrected simulator-derived relative-height percentile 77,m,yes
+data/processed/data_pred_all_data_v2.csv,Gs_RH78,Uncorrected simulator-derived relative-height percentile 78,m,yes
+data/processed/data_pred_all_data_v2.csv,Gs_RH79,Uncorrected simulator-derived relative-height percentile 79,m,yes
+data/processed/data_pred_all_data_v2.csv,Gs_RH80,Uncorrected simulator-derived relative-height percentile 80,m,yes
+data/processed/data_pred_all_data_v2.csv,Gs_RH81,Uncorrected simulator-derived relative-height percentile 81,m,yes
+data/processed/data_pred_all_data_v2.csv,Gs_RH82,Uncorrected simulator-derived relative-height percentile 82,m,yes
+data/processed/data_pred_all_data_v2.csv,Gs_RH83,Uncorrected simulator-derived relative-height percentile 83,m,yes
+data/processed/data_pred_all_data_v2.csv,Gs_RH84,Uncorrected simulator-derived relative-height percentile 84,m,yes
+data/processed/data_pred_all_data_v2.csv,Gs_RH85,Uncorrected simulator-derived relative-height percentile 85,m,yes
+data/processed/data_pred_all_data_v2.csv,Gs_RH86,Uncorrected simulator-derived relative-height percentile 86,m,yes
+data/processed/data_pred_all_data_v2.csv,Gs_RH87,Uncorrected simulator-derived relative-height percentile 87,m,yes
+data/processed/data_pred_all_data_v2.csv,Gs_RH88,Uncorrected simulator-derived relative-height percentile 88,m,yes
+data/processed/data_pred_all_data_v2.csv,Gs_RH89,Uncorrected simulator-derived relative-height percentile 89,m,yes
+data/processed/data_pred_all_data_v2.csv,Gs_RH90,Uncorrected simulator-derived relative-height percentile 90,m,yes
+data/processed/data_pred_all_data_v2.csv,Gs_RH91,Uncorrected simulator-derived relative-height percentile 91,m,yes
+data/processed/data_pred_all_data_v2.csv,Gs_RH92,Uncorrected simulator-derived relative-height percentile 92,m,yes
+data/processed/data_pred_all_data_v2.csv,Gs_RH93,Uncorrected simulator-derived relative-height percentile 93,m,yes
+data/processed/data_pred_all_data_v2.csv,Gs_RH94,Uncorrected simulator-derived relative-height percentile 94,m,yes
+data/processed/data_pred_all_data_v2.csv,Gs_RH95,Uncorrected simulator-derived relative-height percentile 95,m,yes
+data/processed/data_pred_all_data_v2.csv,Gs_RH96,Uncorrected simulator-derived relative-height percentile 96,m,yes
+data/processed/data_pred_all_data_v2.csv,Gs_RH97,Uncorrected simulator-derived relative-height percentile 97,m,yes
+data/processed/data_pred_all_data_v2.csv,Gs_RH98,Uncorrected simulator-derived relative-height percentile 98,m,yes
+data/processed/data_pred_all_data_v2.csv,Gs_RH99,Uncorrected simulator-derived relative-height percentile 99,m,yes
+data/processed/data_pred_all_data_v2.csv,Gs_RH100,Uncorrected simulator-derived relative-height percentile 100,m,yes
+data/processed/data_pred_all_data_v2.csv,wvEnrgy,Original input column retained unchanged; detailed definition/unit requires source metadata,unconfirmed,yes
+data/processed/data_pred_all_data_v2.csv,zenith,Original input column retained unchanged; detailed definition/unit requires source metadata,unconfirmed,yes
+data/processed/data_pred_all_data_v2.csv,FHD,Original input column retained unchanged; detailed definition/unit requires source metadata,unconfirmed,yes
+data/processed/data_pred_all_data_v2.csv,gSlope,Original input column retained unchanged; detailed definition/unit requires source metadata,unconfirmed,yes
+data/processed/data_pred_all_data_v2.csv,site,UAV flight-block identifier,identifier,yes
+data/processed/data_pred_all_data_v2.csv,ALS_AGB,"Model-derived, field-calibrated UAV AGBD reference; not direct field biomass at every footprint",Mg ha^-1,yes
+data/processed/data_pred_all_data_v2.csv,ALS_DEM,UAV-derived elevation,m,yes
+data/processed/data_pred_all_data_v2.csv,ALS_RH10,"UAV reference relative-height percentile 10; the supplied source contains CHM-grid quantiles, whose agreement with the manuscript Gaussian-weighted point-quantile description requires confirmation",m,yes
+data/processed/data_pred_all_data_v2.csv,ALS_RH100,"UAV reference relative-height percentile 100; the supplied source contains CHM-grid quantiles, whose agreement with the manuscript Gaussian-weighted point-quantile description requires confirmation",m,yes
+data/processed/data_pred_all_data_v2.csv,ALS_RH15,"UAV reference relative-height percentile 15; the supplied source contains CHM-grid quantiles, whose agreement with the manuscript Gaussian-weighted point-quantile description requires confirmation",m,yes
+data/processed/data_pred_all_data_v2.csv,ALS_RH20,"UAV reference relative-height percentile 20; the supplied source contains CHM-grid quantiles, whose agreement with the manuscript Gaussian-weighted point-quantile description requires confirmation",m,yes
+data/processed/data_pred_all_data_v2.csv,ALS_RH25,"UAV reference relative-height percentile 25; the supplied source contains CHM-grid quantiles, whose agreement with the manuscript Gaussian-weighted point-quantile description requires confirmation",m,yes
+data/processed/data_pred_all_data_v2.csv,ALS_RH30,"UAV reference relative-height percentile 30; the supplied source contains CHM-grid quantiles, whose agreement with the manuscript Gaussian-weighted point-quantile description requires confirmation",m,yes
+data/processed/data_pred_all_data_v2.csv,ALS_RH35,"UAV reference relative-height percentile 35; the supplied source contains CHM-grid quantiles, whose agreement with the manuscript Gaussian-weighted point-quantile description requires confirmation",m,yes
+data/processed/data_pred_all_data_v2.csv,ALS_RH40,"UAV reference relative-height percentile 40; the supplied source contains CHM-grid quantiles, whose agreement with the manuscript Gaussian-weighted point-quantile description requires confirmation",m,yes
+data/processed/data_pred_all_data_v2.csv,ALS_RH45,"UAV reference relative-height percentile 45; the supplied source contains CHM-grid quantiles, whose agreement with the manuscript Gaussian-weighted point-quantile description requires confirmation",m,yes
+data/processed/data_pred_all_data_v2.csv,ALS_RH5,"UAV reference relative-height percentile 5; the supplied source contains CHM-grid quantiles, whose agreement with the manuscript Gaussian-weighted point-quantile description requires confirmation",m,yes
+data/processed/data_pred_all_data_v2.csv,ALS_RH50,"UAV reference relative-height percentile 50; the supplied source contains CHM-grid quantiles, whose agreement with the manuscript Gaussian-weighted point-quantile description requires confirmation",m,yes
+data/processed/data_pred_all_data_v2.csv,ALS_RH55,"UAV reference relative-height percentile 55; the supplied source contains CHM-grid quantiles, whose agreement with the manuscript Gaussian-weighted point-quantile description requires confirmation",m,yes
+data/processed/data_pred_all_data_v2.csv,ALS_RH60,"UAV reference relative-height percentile 60; the supplied source contains CHM-grid quantiles, whose agreement with the manuscript Gaussian-weighted point-quantile description requires confirmation",m,yes
+data/processed/data_pred_all_data_v2.csv,ALS_RH65,"UAV reference relative-height percentile 65; the supplied source contains CHM-grid quantiles, whose agreement with the manuscript Gaussian-weighted point-quantile description requires confirmation",m,yes
+data/processed/data_pred_all_data_v2.csv,ALS_RH70,"UAV reference relative-height percentile 70; the supplied source contains CHM-grid quantiles, whose agreement with the manuscript Gaussian-weighted point-quantile description requires confirmation",m,yes
+data/processed/data_pred_all_data_v2.csv,ALS_RH75,"UAV reference relative-height percentile 75; the supplied source contains CHM-grid quantiles, whose agreement with the manuscript Gaussian-weighted point-quantile description requires confirmation",m,yes
+data/processed/data_pred_all_data_v2.csv,ALS_RH80,"UAV reference relative-height percentile 80; the supplied source contains CHM-grid quantiles, whose agreement with the manuscript Gaussian-weighted point-quantile description requires confirmation",m,yes
+data/processed/data_pred_all_data_v2.csv,ALS_RH85,"UAV reference relative-height percentile 85; the supplied source contains CHM-grid quantiles, whose agreement with the manuscript Gaussian-weighted point-quantile description requires confirmation",m,yes
+data/processed/data_pred_all_data_v2.csv,ALS_RH90,"UAV reference relative-height percentile 90; the supplied source contains CHM-grid quantiles, whose agreement with the manuscript Gaussian-weighted point-quantile description requires confirmation",m,yes
+data/processed/data_pred_all_data_v2.csv,ALS_RH95,"UAV reference relative-height percentile 95; the supplied source contains CHM-grid quantiles, whose agreement with the manuscript Gaussian-weighted point-quantile description requires confirmation",m,yes
+data/processed/data_pred_all_data_v2.csv,ALS_Slope,UAV-derived terrain slope,degrees,yes
+data/processed/data_pred_all_data_v2.csv,forest_type,"Forest-type code; manuscript plotting uses 52 evergreen broadleaved, 62 deciduous broadleaved, 72 evergreen needle-leaved",code,yes
+data/processed/data_pred_all_data_v2.csv,stand_type,Stand origin/type category as stored,category,yes
+data/processed/data_pred_all_data_v2.csv,Delta_RH5,Simulator RH minus UAV reference RH at percentile 5,m,yes
+data/processed/data_pred_all_data_v2.csv,Delta_RH10,Simulator RH minus UAV reference RH at percentile 10,m,yes
+data/processed/data_pred_all_data_v2.csv,Delta_RH15,Simulator RH minus UAV reference RH at percentile 15,m,yes
+data/processed/data_pred_all_data_v2.csv,Delta_RH20,Simulator RH minus UAV reference RH at percentile 20,m,yes
+data/processed/data_pred_all_data_v2.csv,Delta_RH25,Simulator RH minus UAV reference RH at percentile 25,m,yes
+data/processed/data_pred_all_data_v2.csv,Delta_RH30,Simulator RH minus UAV reference RH at percentile 30,m,yes
+data/processed/data_pred_all_data_v2.csv,Delta_RH35,Simulator RH minus UAV reference RH at percentile 35,m,yes
+data/processed/data_pred_all_data_v2.csv,Delta_RH40,Simulator RH minus UAV reference RH at percentile 40,m,yes
+data/processed/data_pred_all_data_v2.csv,Delta_RH45,Simulator RH minus UAV reference RH at percentile 45,m,yes
+data/processed/data_pred_all_data_v2.csv,Delta_RH50,Simulator RH minus UAV reference RH at percentile 50,m,yes
+data/processed/data_pred_all_data_v2.csv,Delta_RH55,Simulator RH minus UAV reference RH at percentile 55,m,yes
+data/processed/data_pred_all_data_v2.csv,Delta_RH60,Simulator RH minus UAV reference RH at percentile 60,m,yes
+data/processed/data_pred_all_data_v2.csv,Delta_RH65,Simulator RH minus UAV reference RH at percentile 65,m,yes
+data/processed/data_pred_all_data_v2.csv,Delta_RH70,Simulator RH minus UAV reference RH at percentile 70,m,yes
+data/processed/data_pred_all_data_v2.csv,Delta_RH75,Simulator RH minus UAV reference RH at percentile 75,m,yes
+data/processed/data_pred_all_data_v2.csv,Delta_RH80,Simulator RH minus UAV reference RH at percentile 80,m,yes
+data/processed/data_pred_all_data_v2.csv,Delta_RH85,Simulator RH minus UAV reference RH at percentile 85,m,yes
+data/processed/data_pred_all_data_v2.csv,Delta_RH90,Simulator RH minus UAV reference RH at percentile 90,m,yes
+data/processed/data_pred_all_data_v2.csv,Delta_RH95,Simulator RH minus UAV reference RH at percentile 95,m,yes
+data/processed/data_pred_all_data_v2.csv,Delta_RH100,Simulator RH minus UAV reference RH at percentile 100,m,yes
+data/processed/data_pred_all_data_v2.csv,Pred_RH5,Stored reference-assisted corrected relative-height percentile 5; not independently held-out correction,m,yes
+data/processed/data_pred_all_data_v2.csv,Pred_RH10,Stored reference-assisted corrected relative-height percentile 10; not independently held-out correction,m,yes
+data/processed/data_pred_all_data_v2.csv,Pred_RH15,Stored reference-assisted corrected relative-height percentile 15; not independently held-out correction,m,yes
+data/processed/data_pred_all_data_v2.csv,Pred_RH20,Stored reference-assisted corrected relative-height percentile 20; not independently held-out correction,m,yes
+data/processed/data_pred_all_data_v2.csv,Pred_RH25,Stored reference-assisted corrected relative-height percentile 25; not independently held-out correction,m,yes
+data/processed/data_pred_all_data_v2.csv,Pred_RH30,Stored reference-assisted corrected relative-height percentile 30; not independently held-out correction,m,yes
+data/processed/data_pred_all_data_v2.csv,Pred_RH35,Stored reference-assisted corrected relative-height percentile 35; not independently held-out correction,m,yes
+data/processed/data_pred_all_data_v2.csv,Pred_RH40,Stored reference-assisted corrected relative-height percentile 40; not independently held-out correction,m,yes
+data/processed/data_pred_all_data_v2.csv,Pred_RH45,Stored reference-assisted corrected relative-height percentile 45; not independently held-out correction,m,yes
+data/processed/data_pred_all_data_v2.csv,Pred_RH50,Stored reference-assisted corrected relative-height percentile 50; not independently held-out correction,m,yes
+data/processed/data_pred_all_data_v2.csv,Pred_RH55,Stored reference-assisted corrected relative-height percentile 55; not independently held-out correction,m,yes
+data/processed/data_pred_all_data_v2.csv,Pred_RH60,Stored reference-assisted corrected relative-height percentile 60; not independently held-out correction,m,yes
+data/processed/data_pred_all_data_v2.csv,Pred_RH65,Stored reference-assisted corrected relative-height percentile 65; not independently held-out correction,m,yes
+data/processed/data_pred_all_data_v2.csv,Pred_RH70,Stored reference-assisted corrected relative-height percentile 70; not independently held-out correction,m,yes
+data/processed/data_pred_all_data_v2.csv,Pred_RH75,Stored reference-assisted corrected relative-height percentile 75; not independently held-out correction,m,yes
+data/processed/data_pred_all_data_v2.csv,Pred_RH80,Stored reference-assisted corrected relative-height percentile 80; not independently held-out correction,m,yes
+data/processed/data_pred_all_data_v2.csv,Pred_RH85,Stored reference-assisted corrected relative-height percentile 85; not independently held-out correction,m,yes
+data/processed/data_pred_all_data_v2.csv,Pred_RH90,Stored reference-assisted corrected relative-height percentile 90; not independently held-out correction,m,yes
+data/processed/data_pred_all_data_v2.csv,Pred_RH95,Stored reference-assisted corrected relative-height percentile 95; not independently held-out correction,m,yes
+data/processed/data_pred_all_data_v2.csv,Pred_RH100,Stored reference-assisted corrected relative-height percentile 100; not independently held-out correction,m,yes
+data/processed/data_pred_all_data_v2.csv,Pred_AGBD,Stored biomass prediction; training/validation provenance must be recovered before calling this a CV result,Mg ha^-1,yes
+data/processed/data_pred_all_data_v2.csv,Pred_Gs_AGBD,Stored biomass prediction; training/validation provenance must be recovered before calling this a CV result,Mg ha^-1,yes
+data/processed/data_pred_all_data_v2.csv,Pred_GEDI_SIM_AGBD_1,Stored biomass prediction; training/validation provenance must be recovered before calling this a CV result,Mg ha^-1,yes
+data/processed/data_pred_all_data_v2.csv,Pred_GEDI_SIM_AGBD_2,Stored biomass prediction; training/validation provenance must be recovered before calling this a CV result,Mg ha^-1,yes
+data/processed/data_pred_all_data_v2.csv,Pred_GEDI_SIM_AGBD_3,Stored biomass prediction; training/validation provenance must be recovered before calling this a CV result,Mg ha^-1,yes
+data/processed/data_pred_all_data_v2.csv,Pred_GEDI_SIM_AGBD_4,Stored biomass prediction; training/validation provenance must be recovered before calling this a CV result,Mg ha^-1,yes
+data/processed/data_pred_all_data_v2.csv,Pred_GEDI_SIM_Gs_AGBD_1,Stored biomass prediction; training/validation provenance must be recovered before calling this a CV result,Mg ha^-1,yes
+data/processed/data_pred_all_data_v2.csv,Pred_GEDI_SIM_Gs_AGBD_2,Stored biomass prediction; training/validation provenance must be recovered before calling this a CV result,Mg ha^-1,yes
+data/processed/data_pred_all_data_v2.csv,Pred_GEDI_SIM_Gs_AGBD_3,Stored biomass prediction; training/validation provenance must be recovered before calling this a CV result,Mg ha^-1,yes
+data/processed/data_pred_all_data_v2.csv,Pred_GEDI_SIM_Gs_AGBD_4,Stored biomass prediction; training/validation provenance must be recovered before calling this a CV result,Mg ha^-1,yes
+data/processed/data_pred_all_data_v2.csv,SIM_Gs_AGBD,Stored original GEDI-form baseline prediction; coefficient provenance requires confirmation,Mg ha^-1,yes
+data/regional/GEDI_2019_with_Predicted_AGBD.csv,beam,Original input column retained unchanged; detailed definition/unit requires source metadata,unconfirmed,yes
+data/regional/GEDI_2019_with_Predicted_AGBD.csv,shot_numbe,Original input column retained unchanged; detailed definition/unit requires source metadata,unconfirmed,yes
+data/regional/GEDI_2019_with_Predicted_AGBD.csv,degrade_fl,Stored GEDI degrade flag; nonzero flags are present in this regional extract,flag,yes
+data/regional/GEDI_2019_with_Predicted_AGBD.csv,quality_fl,Stored GEDI quality flag,flag,yes
+data/regional/GEDI_2019_with_Predicted_AGBD.csv,delta_time,Original input column retained unchanged; detailed definition/unit requires source metadata,unconfirmed,yes
+data/regional/GEDI_2019_with_Predicted_AGBD.csv,sensitivit,Stored GEDI sensitivity,fraction,yes
+data/regional/GEDI_2019_with_Predicted_AGBD.csv,solar_elev,Original input column retained unchanged; detailed definition/unit requires source metadata,unconfirmed,yes
+data/regional/GEDI_2019_with_Predicted_AGBD.csv,lat_lowest,Original input column retained unchanged; detailed definition/unit requires source metadata,unconfirmed,yes
+data/regional/GEDI_2019_with_Predicted_AGBD.csv,lon_lowest,Original input column retained unchanged; detailed definition/unit requires source metadata,unconfirmed,yes
+data/regional/GEDI_2019_with_Predicted_AGBD.csv,elev_highe,Original input column retained unchanged; detailed definition/unit requires source metadata,unconfirmed,yes
+data/regional/GEDI_2019_with_Predicted_AGBD.csv,elev_lowes,Original input column retained unchanged; detailed definition/unit requires source metadata,unconfirmed,yes
+data/regional/GEDI_2019_with_Predicted_AGBD.csv,rh0,Regional GEDI relative-height percentile 0,m,yes
+data/regional/GEDI_2019_with_Predicted_AGBD.csv,rh1,Regional GEDI relative-height percentile 1,m,yes
+data/regional/GEDI_2019_with_Predicted_AGBD.csv,rh2,Regional GEDI relative-height percentile 2,m,yes
+data/regional/GEDI_2019_with_Predicted_AGBD.csv,rh3,Regional GEDI relative-height percentile 3,m,yes
+data/regional/GEDI_2019_with_Predicted_AGBD.csv,rh4,Regional GEDI relative-height percentile 4,m,yes
+data/regional/GEDI_2019_with_Predicted_AGBD.csv,rh5,Regional GEDI relative-height percentile 5,m,yes
+data/regional/GEDI_2019_with_Predicted_AGBD.csv,rh6,Regional GEDI relative-height percentile 6,m,yes
+data/regional/GEDI_2019_with_Predicted_AGBD.csv,rh7,Regional GEDI relative-height percentile 7,m,yes
+data/regional/GEDI_2019_with_Predicted_AGBD.csv,rh8,Regional GEDI relative-height percentile 8,m,yes
+data/regional/GEDI_2019_with_Predicted_AGBD.csv,rh9,Regional GEDI relative-height percentile 9,m,yes
+data/regional/GEDI_2019_with_Predicted_AGBD.csv,rh10,Regional GEDI relative-height percentile 10,m,yes
+data/regional/GEDI_2019_with_Predicted_AGBD.csv,rh11,Regional GEDI relative-height percentile 11,m,yes
+data/regional/GEDI_2019_with_Predicted_AGBD.csv,rh12,Regional GEDI relative-height percentile 12,m,yes
+data/regional/GEDI_2019_with_Predicted_AGBD.csv,rh13,Regional GEDI relative-height percentile 13,m,yes
+data/regional/GEDI_2019_with_Predicted_AGBD.csv,rh14,Regional GEDI relative-height percentile 14,m,yes
+data/regional/GEDI_2019_with_Predicted_AGBD.csv,rh15,Regional GEDI relative-height percentile 15,m,yes
+data/regional/GEDI_2019_with_Predicted_AGBD.csv,rh16,Regional GEDI relative-height percentile 16,m,yes
+data/regional/GEDI_2019_with_Predicted_AGBD.csv,rh17,Regional GEDI relative-height percentile 17,m,yes
+data/regional/GEDI_2019_with_Predicted_AGBD.csv,rh18,Regional GEDI relative-height percentile 18,m,yes
+data/regional/GEDI_2019_with_Predicted_AGBD.csv,rh19,Regional GEDI relative-height percentile 19,m,yes
+data/regional/GEDI_2019_with_Predicted_AGBD.csv,rh20,Regional GEDI relative-height percentile 20,m,yes
+data/regional/GEDI_2019_with_Predicted_AGBD.csv,rh21,Regional GEDI relative-height percentile 21,m,yes
+data/regional/GEDI_2019_with_Predicted_AGBD.csv,rh22,Regional GEDI relative-height percentile 22,m,yes
+data/regional/GEDI_2019_with_Predicted_AGBD.csv,rh23,Regional GEDI relative-height percentile 23,m,yes
+data/regional/GEDI_2019_with_Predicted_AGBD.csv,rh24,Regional GEDI relative-height percentile 24,m,yes
+data/regional/GEDI_2019_with_Predicted_AGBD.csv,rh25,Regional GEDI relative-height percentile 25,m,yes
+data/regional/GEDI_2019_with_Predicted_AGBD.csv,rh26,Regional GEDI relative-height percentile 26,m,yes
+data/regional/GEDI_2019_with_Predicted_AGBD.csv,rh27,Regional GEDI relative-height percentile 27,m,yes
+data/regional/GEDI_2019_with_Predicted_AGBD.csv,rh28,Regional GEDI relative-height percentile 28,m,yes
+data/regional/GEDI_2019_with_Predicted_AGBD.csv,rh29,Regional GEDI relative-height percentile 29,m,yes
+data/regional/GEDI_2019_with_Predicted_AGBD.csv,rh30,Regional GEDI relative-height percentile 30,m,yes
+data/regional/GEDI_2019_with_Predicted_AGBD.csv,rh31,Regional GEDI relative-height percentile 31,m,yes
+data/regional/GEDI_2019_with_Predicted_AGBD.csv,rh32,Regional GEDI relative-height percentile 32,m,yes
+data/regional/GEDI_2019_with_Predicted_AGBD.csv,rh33,Regional GEDI relative-height percentile 33,m,yes
+data/regional/GEDI_2019_with_Predicted_AGBD.csv,rh34,Regional GEDI relative-height percentile 34,m,yes
+data/regional/GEDI_2019_with_Predicted_AGBD.csv,rh35,Regional GEDI relative-height percentile 35,m,yes
+data/regional/GEDI_2019_with_Predicted_AGBD.csv,rh36,Regional GEDI relative-height percentile 36,m,yes
+data/regional/GEDI_2019_with_Predicted_AGBD.csv,rh37,Regional GEDI relative-height percentile 37,m,yes
+data/regional/GEDI_2019_with_Predicted_AGBD.csv,rh38,Regional GEDI relative-height percentile 38,m,yes
+data/regional/GEDI_2019_with_Predicted_AGBD.csv,rh39,Regional GEDI relative-height percentile 39,m,yes
+data/regional/GEDI_2019_with_Predicted_AGBD.csv,rh40,Regional GEDI relative-height percentile 40,m,yes
+data/regional/GEDI_2019_with_Predicted_AGBD.csv,rh41,Regional GEDI relative-height percentile 41,m,yes
+data/regional/GEDI_2019_with_Predicted_AGBD.csv,rh42,Regional GEDI relative-height percentile 42,m,yes
+data/regional/GEDI_2019_with_Predicted_AGBD.csv,rh43,Regional GEDI relative-height percentile 43,m,yes
+data/regional/GEDI_2019_with_Predicted_AGBD.csv,rh44,Regional GEDI relative-height percentile 44,m,yes
+data/regional/GEDI_2019_with_Predicted_AGBD.csv,rh45,Regional GEDI relative-height percentile 45,m,yes
+data/regional/GEDI_2019_with_Predicted_AGBD.csv,rh46,Regional GEDI relative-height percentile 46,m,yes
+data/regional/GEDI_2019_with_Predicted_AGBD.csv,rh47,Regional GEDI relative-height percentile 47,m,yes
+data/regional/GEDI_2019_with_Predicted_AGBD.csv,rh48,Regional GEDI relative-height percentile 48,m,yes
+data/regional/GEDI_2019_with_Predicted_AGBD.csv,rh49,Regional GEDI relative-height percentile 49,m,yes
+data/regional/GEDI_2019_with_Predicted_AGBD.csv,rh50,Regional GEDI relative-height percentile 50,m,yes
+data/regional/GEDI_2019_with_Predicted_AGBD.csv,rh51,Regional GEDI relative-height percentile 51,m,yes
+data/regional/GEDI_2019_with_Predicted_AGBD.csv,rh52,Regional GEDI relative-height percentile 52,m,yes
+data/regional/GEDI_2019_with_Predicted_AGBD.csv,rh53,Regional GEDI relative-height percentile 53,m,yes
+data/regional/GEDI_2019_with_Predicted_AGBD.csv,rh54,Regional GEDI relative-height percentile 54,m,yes
+data/regional/GEDI_2019_with_Predicted_AGBD.csv,rh55,Regional GEDI relative-height percentile 55,m,yes
+data/regional/GEDI_2019_with_Predicted_AGBD.csv,rh56,Regional GEDI relative-height percentile 56,m,yes
+data/regional/GEDI_2019_with_Predicted_AGBD.csv,rh57,Regional GEDI relative-height percentile 57,m,yes
+data/regional/GEDI_2019_with_Predicted_AGBD.csv,rh58,Regional GEDI relative-height percentile 58,m,yes
+data/regional/GEDI_2019_with_Predicted_AGBD.csv,rh59,Regional GEDI relative-height percentile 59,m,yes
+data/regional/GEDI_2019_with_Predicted_AGBD.csv,rh60,Regional GEDI relative-height percentile 60,m,yes
+data/regional/GEDI_2019_with_Predicted_AGBD.csv,rh61,Regional GEDI relative-height percentile 61,m,yes
+data/regional/GEDI_2019_with_Predicted_AGBD.csv,rh62,Regional GEDI relative-height percentile 62,m,yes
+data/regional/GEDI_2019_with_Predicted_AGBD.csv,rh63,Regional GEDI relative-height percentile 63,m,yes
+data/regional/GEDI_2019_with_Predicted_AGBD.csv,rh64,Regional GEDI relative-height percentile 64,m,yes
+data/regional/GEDI_2019_with_Predicted_AGBD.csv,rh65,Regional GEDI relative-height percentile 65,m,yes
+data/regional/GEDI_2019_with_Predicted_AGBD.csv,rh66,Regional GEDI relative-height percentile 66,m,yes
+data/regional/GEDI_2019_with_Predicted_AGBD.csv,rh67,Regional GEDI relative-height percentile 67,m,yes
+data/regional/GEDI_2019_with_Predicted_AGBD.csv,rh68,Regional GEDI relative-height percentile 68,m,yes
+data/regional/GEDI_2019_with_Predicted_AGBD.csv,rh69,Regional GEDI relative-height percentile 69,m,yes
+data/regional/GEDI_2019_with_Predicted_AGBD.csv,rh70,Regional GEDI relative-height percentile 70,m,yes
+data/regional/GEDI_2019_with_Predicted_AGBD.csv,rh71,Regional GEDI relative-height percentile 71,m,yes
+data/regional/GEDI_2019_with_Predicted_AGBD.csv,rh72,Regional GEDI relative-height percentile 72,m,yes
+data/regional/GEDI_2019_with_Predicted_AGBD.csv,rh73,Regional GEDI relative-height percentile 73,m,yes
+data/regional/GEDI_2019_with_Predicted_AGBD.csv,rh74,Regional GEDI relative-height percentile 74,m,yes
+data/regional/GEDI_2019_with_Predicted_AGBD.csv,rh75,Regional GEDI relative-height percentile 75,m,yes
+data/regional/GEDI_2019_with_Predicted_AGBD.csv,rh76,Regional GEDI relative-height percentile 76,m,yes
+data/regional/GEDI_2019_with_Predicted_AGBD.csv,rh77,Regional GEDI relative-height percentile 77,m,yes
+data/regional/GEDI_2019_with_Predicted_AGBD.csv,rh78,Regional GEDI relative-height percentile 78,m,yes
+data/regional/GEDI_2019_with_Predicted_AGBD.csv,rh79,Regional GEDI relative-height percentile 79,m,yes
+data/regional/GEDI_2019_with_Predicted_AGBD.csv,rh80,Regional GEDI relative-height percentile 80,m,yes
+data/regional/GEDI_2019_with_Predicted_AGBD.csv,rh81,Regional GEDI relative-height percentile 81,m,yes
+data/regional/GEDI_2019_with_Predicted_AGBD.csv,rh82,Regional GEDI relative-height percentile 82,m,yes
+data/regional/GEDI_2019_with_Predicted_AGBD.csv,rh83,Regional GEDI relative-height percentile 83,m,yes
+data/regional/GEDI_2019_with_Predicted_AGBD.csv,rh84,Regional GEDI relative-height percentile 84,m,yes
+data/regional/GEDI_2019_with_Predicted_AGBD.csv,rh85,Regional GEDI relative-height percentile 85,m,yes
+data/regional/GEDI_2019_with_Predicted_AGBD.csv,rh86,Regional GEDI relative-height percentile 86,m,yes
+data/regional/GEDI_2019_with_Predicted_AGBD.csv,rh87,Regional GEDI relative-height percentile 87,m,yes
+data/regional/GEDI_2019_with_Predicted_AGBD.csv,rh88,Regional GEDI relative-height percentile 88,m,yes
+data/regional/GEDI_2019_with_Predicted_AGBD.csv,rh89,Regional GEDI relative-height percentile 89,m,yes
+data/regional/GEDI_2019_with_Predicted_AGBD.csv,rh90,Regional GEDI relative-height percentile 90,m,yes
+data/regional/GEDI_2019_with_Predicted_AGBD.csv,rh91,Regional GEDI relative-height percentile 91,m,yes
+data/regional/GEDI_2019_with_Predicted_AGBD.csv,rh92,Regional GEDI relative-height percentile 92,m,yes
+data/regional/GEDI_2019_with_Predicted_AGBD.csv,rh93,Regional GEDI relative-height percentile 93,m,yes
+data/regional/GEDI_2019_with_Predicted_AGBD.csv,rh94,Regional GEDI relative-height percentile 94,m,yes
+data/regional/GEDI_2019_with_Predicted_AGBD.csv,rh95,Regional GEDI relative-height percentile 95,m,yes
+data/regional/GEDI_2019_with_Predicted_AGBD.csv,rh96,Regional GEDI relative-height percentile 96,m,yes
+data/regional/GEDI_2019_with_Predicted_AGBD.csv,rh97,Regional GEDI relative-height percentile 97,m,yes
+data/regional/GEDI_2019_with_Predicted_AGBD.csv,rh98,Regional GEDI relative-height percentile 98,m,yes
+data/regional/GEDI_2019_with_Predicted_AGBD.csv,rh99,Regional GEDI relative-height percentile 99,m,yes
+data/regional/GEDI_2019_with_Predicted_AGBD.csv,rh100,Regional GEDI relative-height percentile 100,m,yes
+data/regional/GEDI_2019_with_Predicted_AGBD.csv,layer,Original input column retained unchanged; detailed definition/unit requires source metadata,unconfirmed,yes
+data/regional/GEDI_2019_with_Predicted_AGBD.csv,path,Original input column retained unchanged; detailed definition/unit requires source metadata,unconfirmed,yes
+data/regional/GEDI_2019_with_Predicted_AGBD.csv,landcover1,Original input column retained unchanged; detailed definition/unit requires source metadata,unconfirmed,yes
+data/regional/GEDI_2019_with_Predicted_AGBD.csv,Slope1,"Terrain slope at regional footprints, used directly without a scale conversion",degrees,yes
+data/regional/GEDI_2019_with_Predicted_AGBD.csv,DEM1,"Stored regional DEM column; source, unit and scale require confirmation",to confirm,yes
+data/regional/GEDI_2019_with_Predicted_AGBD.csv,GLAD_Ht1,Sampled GLAD canopy height column; exact release and acquisition year require confirmation,"m, to confirm",yes
+data/regional/GEDI_2019_with_Predicted_AGBD.csv,CFATD_AGBD,Regional comparison biomass column; distinct from CFATD_AG_1; provenance/units to confirm,to confirm,yes
+data/regional/GEDI_2019_with_Predicted_AGBD.csv,CFATD_AG_1,Second similarly named regional column; no assumption that it is interchangeable with CFATD_AGBD,to confirm,yes
+data/regional/GEDI_2019_with_Predicted_AGBD.csv,ETH_Ht1,Sampled ETH canopy height column; exact release and acquisition year require confirmation,"m, to confirm",yes
+data/regional/GEDI_2019_with_Predicted_AGBD.csv,CCI_AGBD1,Sampled CCI biomass; exact release/year/units to confirm,to confirm,yes
+data/regional/GEDI_2019_with_Predicted_AGBD.csv,Cal_RH5,Stored regional corrected RH percentile 5; provenance requires confirmation,m,yes
+data/regional/GEDI_2019_with_Predicted_AGBD.csv,Cal_RH10,Stored regional corrected RH percentile 10; provenance requires confirmation,m,yes
+data/regional/GEDI_2019_with_Predicted_AGBD.csv,Cal_RH15,Stored regional corrected RH percentile 15; provenance requires confirmation,m,yes
+data/regional/GEDI_2019_with_Predicted_AGBD.csv,Cal_RH20,Stored regional corrected RH percentile 20; provenance requires confirmation,m,yes
+data/regional/GEDI_2019_with_Predicted_AGBD.csv,Cal_RH25,Stored regional corrected RH percentile 25; provenance requires confirmation,m,yes
+data/regional/GEDI_2019_with_Predicted_AGBD.csv,Cal_RH30,Stored regional corrected RH percentile 30; provenance requires confirmation,m,yes
+data/regional/GEDI_2019_with_Predicted_AGBD.csv,Cal_RH35,Stored regional corrected RH percentile 35; provenance requires confirmation,m,yes
+data/regional/GEDI_2019_with_Predicted_AGBD.csv,Cal_RH40,Stored regional corrected RH percentile 40; provenance requires confirmation,m,yes
+data/regional/GEDI_2019_with_Predicted_AGBD.csv,Cal_RH45,Stored regional corrected RH percentile 45; provenance requires confirmation,m,yes
+data/regional/GEDI_2019_with_Predicted_AGBD.csv,Cal_RH50,Stored regional corrected RH percentile 50; provenance requires confirmation,m,yes
+data/regional/GEDI_2019_with_Predicted_AGBD.csv,Cal_RH55,Stored regional corrected RH percentile 55; provenance requires confirmation,m,yes
+data/regional/GEDI_2019_with_Predicted_AGBD.csv,Cal_RH60,Stored regional corrected RH percentile 60; provenance requires confirmation,m,yes
+data/regional/GEDI_2019_with_Predicted_AGBD.csv,Cal_RH65,Stored regional corrected RH percentile 65; provenance requires confirmation,m,yes
+data/regional/GEDI_2019_with_Predicted_AGBD.csv,Cal_RH70,Stored regional corrected RH percentile 70; provenance requires confirmation,m,yes
+data/regional/GEDI_2019_with_Predicted_AGBD.csv,Cal_RH75,Stored regional corrected RH percentile 75; provenance requires confirmation,m,yes
+data/regional/GEDI_2019_with_Predicted_AGBD.csv,Cal_RH80,Stored regional corrected RH percentile 80; provenance requires confirmation,m,yes
+data/regional/GEDI_2019_with_Predicted_AGBD.csv,Cal_RH85,Stored regional corrected RH percentile 85; provenance requires confirmation,m,yes
+data/regional/GEDI_2019_with_Predicted_AGBD.csv,Cal_RH90,Stored regional corrected RH percentile 90; provenance requires confirmation,m,yes
+data/regional/GEDI_2019_with_Predicted_AGBD.csv,Cal_RH95,Stored regional corrected RH percentile 95; provenance requires confirmation,m,yes
+data/regional/GEDI_2019_with_Predicted_AGBD.csv,Cal_RH100,Stored regional corrected RH percentile 100; provenance requires confirmation,m,yes
+data/regional/GEDI_2019_with_Predicted_AGBD.csv,GEDI_AGBD,Stored regional model prediction; do not assume this column is the observed official GEDI L4A product,AGBD units to confirm,yes
+data/regional/GEDI_2019_with_Predicted_AGBD.csv,Cal_AGBD,Stored regional corrected-input model prediction; no affine rescaling applied in this workflow,AGBD units to confirm,yes

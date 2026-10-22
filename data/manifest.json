@@ -1,0 +1,47 @@
+[
+  {
+    "path": "data/processed/GEDI_SIM_metrics.csv",
+    "size_bytes": 24944684,
+    "sha256": "2d6b05f964f52fa02a999a9c8a57d1d61b6edb418235efef8eb240f80f67a09c"
+  },
+  {
+    "path": "data/processed/data_pred_all_data_v2.csv",
+    "size_bytes": 18754017,
+    "sha256": "c954a2f4d34b64be002b2f2e32bd608c916d1e4e84a60fa95095499f09335d6a"
+  },
+  {
+    "path": "data/regional/GEDI_2019_with_Predicted_AGBD.csv",
+    "size_bytes": 18851902,
+    "sha256": "2fc82a35a6659e184de87776cf9f3922982236c85e3ad05ac712c988cf22ebae"
+  },
+  {
+    "path": "data/reported/LOBO_AGBD_all_metrics_pooled.csv",
+    "size_bytes": 1456,
+    "sha256": "5cc0099dffececd1ac2400cd1173b6976431d679ceaf317872edd38964f99185"
+  },
+  {
+    "path": "data/reported/Table2_reported.csv",
+    "size_bytes": 520,
+    "sha256": "1429f66e513816fe24172299c339dd816f64a2285ed15c128408f32177ae3849"
+  },
+  {
+    "path": "data/reported/Table3_reported.csv",
+    "size_bytes": 581,
+    "sha256": "0011ba592b270204ea58752268c50ffb337b7b9654004cfa371ccd098f7e8a43"
+  },
+  {
+    "path": "data/reported/lobo_rh_coefficients.csv",
+    "size_bytes": 29194,
+    "sha256": "90241533805d73465b526915a198931b32c24ac4216c868a9b07b865399d37f5"
+  },
+  {
+    "path": "data/reported/lobo_rh_metrics_by_block.csv",
+    "size_bytes": 39398,
+    "sha256": "3fe1583e98b67c3fb1e4f6f73f2f6fe428c98a01ce6f50957c923664aaa8cb70"
+  },
+  {
+    "path": "data/reported/lobo_rh_metrics_pooled.csv",
+    "size_bytes": 2908,
+    "sha256": "99c9d124d51eb6a6a72d353639013771a9a0e30c1d4c5f8e2c6302ce87fea7ac"
+  }
+]
