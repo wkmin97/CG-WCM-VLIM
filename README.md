@@ -67,7 +67,6 @@ python verify_reproduction.py
 
 Existing outputs are included. Rerunning overwrites files in the corresponding `results/` directories. Figures are exported as PNG, SVG, and PDF.
 
-The packaged run passed the technical checks and exactly reproduced the supplied layer-model pooled RMSE values (11.651933 for original RH and 11.225270 Mg/ha for stored corrected RH). These are conditional LOBO scores. The block results do **not** reproduce manuscript Table 3 at its reported precision; the differences are exported for review. See [verification results](results/verification.json) and the [run report](docs/VERIFICATION_REPORT.md).
 
 ## Interpretation of the reproduced calculations
 
@@ -75,7 +74,7 @@ The supplied corrected `Pred_RH*` values are reproduced by the original four-coe
 
 Step 3 excludes the test block when fitting AGBD parameters, but uses the existing `Pred_RH*` predictors. It therefore provides **conditional AGBD-model LOBO validation**, not independent validation of the complete RH-correction-to-AGBD pipeline. Step 3 uses the supplied corrected columns directly; it does not consume predictions from a separate RH validation experiment. The original and revised validation designs must remain distinguishable.
 
-Step 5 does not apply a new correction, infer an official GEDI L4A product from a similarly named column, or apply undocumented changes of units or scale. Its output is a regional data diagnostic, not a verified reproduction of manuscript Figure 14.
+Step 5 does not apply a new correction, infer an official GEDI L4A product from a similarly named column, or apply undocumented changes of units or scale. Its output is a regional data diagnostic.
 
 The supplied sources do not establish the manuscript's claimed 10-fold out-of-fold results. Stored prediction metrics and manuscript Table 2 are retained separately for reconciliation. See [calibration and validation](docs/CALIBRATION_AND_VALIDATION.md).
 
