@@ -1,0 +1,511 @@
+{
+  "status": "repository preparation draft",
+  "verification": "results/verification.json",
+  "files": [
+    {
+      "path": ".gitignore",
+      "size_bytes": 87,
+      "sha256": "b6084db72c842b0f8c6ea1d2bfe295aa3e3b71100ddf5a70e22b0be69a8e04a2"
+    },
+    {
+      "path": "01_check_data.py",
+      "size_bytes": 2871,
+      "sha256": "04a6b0e021b554a1d13dec307487d84b0d6a56e9b211ecea47844d1beb7796cb"
+    },
+    {
+      "path": "02_calibrate_rh.py",
+      "size_bytes": 2676,
+      "sha256": "f7dd3af1dacc272b05e0ad0ae403a9ff2bdb467b2da9ebae187aa95f4beef855"
+    },
+    {
+      "path": "03_validate_agbd_lobo.py",
+      "size_bytes": 1021,
+      "sha256": "208b0f49d203926e84b4a9caa68813c12b7c9003284917177dde4fe4c3549ba5"
+    },
+    {
+      "path": "04_export_figures_and_tables.py",
+      "size_bytes": 4184,
+      "sha256": "4f5d41fab125254760c274f254fff37394774d9a3d54d63f40233d41e2c04e2b"
+    },
+    {
+      "path": "05_regional_comparison.py",
+      "size_bytes": 4148,
+      "sha256": "400e6d12ee25f2ec21d9652cbaccb2fa154e8f0510ca535914e4034768dfe33a"
+    },
+    {
+      "path": "CITATION.cff",
+      "size_bytes": 799,
+      "sha256": "1110b72586d80b37d47388c270ea673821579255c1851116702e64148278ce1a"
+    },
+    {
+      "path": "LICENSE_STATUS.md",
+      "size_bytes": 708,
+      "sha256": "d03167bb70b1db7eaf2823356cd3b70e558dbea7de4a3bb1635d27438cf2b361"
+    },
+    {
+      "path": "README.md",
+      "size_bytes": 8071,
+      "sha256": "b9f324c9c1fa198edfb7fc70a7a89ac9ad2dcf41797e8351678293211914fe96"
+    },
+    {
+      "path": "config/block_mapping.csv",
+      "size_bytes": 881,
+      "sha256": "c8e6232a9e4ad4a5caa78ce3220cd3ebb983c102b58e14d0d17aff9db5f34a4f"
+    },
+    {
+      "path": "data/README.md",
+      "size_bytes": 1734,
+      "sha256": "c67f65478eeaf49874ad851c9811860f5654d3842748db3fb776be847469fb9b"
+    },
+    {
+      "path": "data/data_dictionary.csv",
+      "size_bytes": 65781,
+      "sha256": "3363bfba739c0e480342ebfa309a6b7b59a026750904dd56d3934457ca43280d"
+    },
+    {
+      "path": "data/manifest.json",
+      "size_bytes": 1539,
+      "sha256": "7c5b2f4aa6c8c41402251c42454e308cce67cb9bc35656b18066f75cdc392739"
+    },
+    {
+      "path": "data/processed/GEDI_SIM_metrics.csv",
+      "size_bytes": 24944684,
+      "sha256": "2d6b05f964f52fa02a999a9c8a57d1d61b6edb418235efef8eb240f80f67a09c"
+    },
+    {
+      "path": "data/processed/data_pred_all_data_v2.csv",
+      "size_bytes": 18754017,
+      "sha256": "c954a2f4d34b64be002b2f2e32bd608c916d1e4e84a60fa95095499f09335d6a"
+    },
+    {
+      "path": "data/raw/README.md",
+      "size_bytes": 2304,
+      "sha256": "1cc4963afb08d216b37cf8d719e42c56a39bbcfabe28fad95b8aaca812cb667a"
+    },
+    {
+      "path": "data/regional/GEDI_2019_with_Predicted_AGBD.csv",
+      "size_bytes": 18851902,
+      "sha256": "2fc82a35a6659e184de87776cf9f3922982236c85e3ad05ac712c988cf22ebae"
+    },
+    {
+      "path": "data/reported/LOBO_AGBD_all_metrics_pooled.csv",
+      "size_bytes": 1456,
+      "sha256": "5cc0099dffececd1ac2400cd1173b6976431d679ceaf317872edd38964f99185"
+    },
+    {
+      "path": "data/reported/Table2_reported.csv",
+      "size_bytes": 520,
+      "sha256": "1429f66e513816fe24172299c339dd816f64a2285ed15c128408f32177ae3849"
+    },
+    {
+      "path": "data/reported/Table3_reported.csv",
+      "size_bytes": 581,
+      "sha256": "0011ba592b270204ea58752268c50ffb337b7b9654004cfa371ccd098f7e8a43"
+    },
+    {
+      "path": "data/reported/lobo_rh_coefficients.csv",
+      "size_bytes": 29194,
+      "sha256": "90241533805d73465b526915a198931b32c24ac4216c868a9b07b865399d37f5"
+    },
+    {
+      "path": "data/reported/lobo_rh_metrics_by_block.csv",
+      "size_bytes": 39398,
+      "sha256": "3fe1583e98b67c3fb1e4f6f73f2f6fe428c98a01ce6f50957c923664aaa8cb70"
+    },
+    {
+      "path": "data/reported/lobo_rh_metrics_pooled.csv",
+      "size_bytes": 2908,
+      "sha256": "99c9d124d51eb6a6a72d353639013771a9a0e30c1d4c5f8e2c6302ce87fea7ac"
+    },
+    {
+      "path": "docs/CALIBRATION_AND_VALIDATION.md",
+      "size_bytes": 4146,
+      "sha256": "ef093a25999ce7ef708a53abb9d433217242a405164255438a6ff9c294da06e1"
+    },
+    {
+      "path": "docs/GITHUB_UPLOAD_GUIDE.md",
+      "size_bytes": 3261,
+      "sha256": "23eda69742b874d6e99de43ef7c890219ebc5fa2fdfd492a37ce4759358fa68c"
+    },
+    {
+      "path": "docs/MANUSCRIPT_OUTPUT_MAP.md",
+      "size_bytes": 3276,
+      "sha256": "2c837da2f56b525f26d530053e1ab6ca3a463600c5cda45ee980a5a8964c26fc"
+    },
+    {
+      "path": "docs/RELEASE_STATUS.md",
+      "size_bytes": 4584,
+      "sha256": "d6195887cff501cf04c2796249e9d4c851af862dd9f1f8bdc2d18db5cc479f73"
+    },
+    {
+      "path": "docs/UPSTREAM_WORKFLOW.md",
+      "size_bytes": 2265,
+      "sha256": "f1ed375e5c60c6ad884ed2880a4b7167cd706443790bf9d0288122fde5cdac4f"
+    },
+    {
+      "path": "docs/VERIFICATION_REPORT.md",
+      "size_bytes": 2392,
+      "sha256": "b5b58d2c8efd9962abae2f1a611b539d703f5be22274df9bbb1658a5eb209218"
+    },
+    {
+      "path": "docs/excluded_binary_checkpoints.csv",
+      "size_bytes": 676,
+      "sha256": "64557e2c9661674c809cb9b72e55bf8aff81f49c3e631c0166a4032c0387fb24"
+    },
+    {
+      "path": "docs/source_code_inventory.csv",
+      "size_bytes": 17195,
+      "sha256": "e98984908863768e2019c3652378fe61f4543eecbf8169d1601cc29c5bb4c557"
+    },
+    {
+      "path": "environment.yml",
+      "size_bytes": 124,
+      "sha256": "a9e7cbea5dad231dacce119843342bdd0b0e23332324a64d2b4fc9285514dac3"
+    },
+    {
+      "path": "experiments/rh_inverse_lobo.py",
+      "size_bytes": 581,
+      "sha256": "c8383b0a3dffc6b6a13a04a5f62c42449dbd86d2013ff8523132218ed2face6e"
+    },
+    {
+      "path": "original_code/Python/apply\u5782\u76f4\u539a\u5ea6\u6a21\u578b.py",
+      "size_bytes": 3057,
+      "sha256": "af58dfcf8fc12bb1818e5f451039da486ffc352e72d4a86533ee16158b3e9e13"
+    },
+    {
+      "path": "original_code/Python/best GEDI AGBD function selection.py",
+      "size_bytes": 2538,
+      "sha256": "94057c64af701d636ad13cb3ce2ec53560ced3378ee8c9d082361db2b4a122fa"
+    },
+    {
+      "path": "original_code/Python/non_lineaer_Model_AGBD.py",
+      "size_bytes": 3534,
+      "sha256": "4ccd536fc71ae7f45c6049a0fa9b10df1460c9f6306fd4d59ab386ad64e64155"
+    },
+    {
+      "path": "original_code/Python/non_liner_model_v2.py",
+      "size_bytes": 3888,
+      "sha256": "920bc7c65bcd96cc5c307bc0695ad5e51b7892cf6d5af5c0a12666bbdf3196f5"
+    },
+    {
+      "path": "original_code/Python/xx.py",
+      "size_bytes": 2836,
+      "sha256": "a6ae6bc3f5aac14c273037459fb869625d3d2548410c50a5da8b452ec4fd7c32"
+    },
+    {
+      "path": "original_code/Python/\u4f53\u79ef\u79ef\u5206.py",
+      "size_bytes": 2604,
+      "sha256": "e053b301ec0f856a457ab1267cd886cd90f1d8385999a99b9a3d4d16304ac5b8"
+    },
+    {
+      "path": "original_code/Python/\u5782\u76f4\u539a\u5ea6.py",
+      "size_bytes": 2599,
+      "sha256": "2ed73e3570d345c57165a84b181ddde9428049cbc7af03d9f0530aa263978673"
+    },
+    {
+      "path": "original_code/Python/\u5e42\u51fd\u6570\u6a21\u578b.py",
+      "size_bytes": 2861,
+      "sha256": "e517dba87c0dd9f9282ec155ab8dd21948e6af42aead6a90be29d8119ac6981b"
+    },
+    {
+      "path": "original_code/R/00.1process_one.R",
+      "size_bytes": 798,
+      "sha256": "7b8537a072a5a304604fa1728d609710ac23d32b0fc0e34674352d6f754757cc"
+    },
+    {
+      "path": "original_code/R/00.2_resample_and_mosaic.R",
+      "size_bytes": 1655,
+      "sha256": "a9a437f8822c287a13308be6e74f370a3e45973d58d0cd8fe6a4344261c18da5"
+    },
+    {
+      "path": "original_code/R/00.2batch_process_las.sh",
+      "size_bytes": 877,
+      "sha256": "eabfedc60cd5e53fd9e92a73dc6479fa1f10c172bb8e4447039b5dd23ad33547"
+    },
+    {
+      "path": "original_code/R/0000000plot.R",
+      "size_bytes": 42495,
+      "sha256": "7680dc66787f222ec6b8a776c5b2541c2e32228777d718992ec12bbd2bc35e55"
+    },
+    {
+      "path": "original_code/R/00_clip_las.R",
+      "size_bytes": 2970,
+      "sha256": "d2f7cee2dbe6313b3292e528aeb3b184ef083ca25c063c126055b14f3b311680"
+    },
+    {
+      "path": "original_code/R/01_las_to_h5.R",
+      "size_bytes": 6682,
+      "sha256": "e994d706eb9a34b68cc729280886e3d7979d88338882f8138c3daf904bb83eec"
+    },
+    {
+      "path": "original_code/R/02WFmetrics_conbine.R",
+      "size_bytes": 926,
+      "sha256": "7fcbf3aa190169bd9a7497db1e4ff1a8feacbd1194730cadf2a6b1792dfddb6b"
+    },
+    {
+      "path": "original_code/R/03metrics_pre_toshp.R",
+      "size_bytes": 8699,
+      "sha256": "5717c3fc4ba51d472f94362c29895ba2b9bf75df6a0f851dfab6e01c54539f0e"
+    },
+    {
+      "path": "original_code/R/06 GEDI_clip.R",
+      "size_bytes": 2455,
+      "sha256": "082a813b2de568d0594e2486d1c7dec7f3c988904388ffda4e50da3e2da3d6ad"
+    },
+    {
+      "path": "original_code/R/06.1 GEDI4A.R",
+      "size_bytes": 1563,
+      "sha256": "074dc0ab15d3b619e17dae8c5f7042e858a7fdfa36f9bad8b693f114726978aa"
+    },
+    {
+      "path": "original_code/R/07 value to points.R",
+      "size_bytes": 3662,
+      "sha256": "4e206bb4ea5f330456104701bdc6c3c790cfe6a4027fcf04ae3c0372f17d2b3b"
+    },
+    {
+      "path": "original_code/R/10 pre_analysis.R",
+      "size_bytes": 34576,
+      "sha256": "1ea683ec2177dd1b479888f45f9b1e67b2a09add30a3300350743656363855d0"
+    },
+    {
+      "path": "original_code/R/11 multi-task RF model footprint-level.R",
+      "size_bytes": 22589,
+      "sha256": "f3ab6b53cb96304ccb71434547f666090cd60558e175a7142ed987e7be1ee055"
+    },
+    {
+      "path": "original_code/R/12 RH structure compare.R",
+      "size_bytes": 1264,
+      "sha256": "7a2a0da667fa0c8c78f0f55d35bdd296a2dd4a4c5028bee98d6e39df177bfe12"
+    },
+    {
+      "path": "original_code/R/13apply model.R",
+      "size_bytes": 6627,
+      "sha256": "aec7932032614e813a625ec5f445a390709736da640a01699bfbaae6c3511c26"
+    },
+    {
+      "path": "original_code/R/ALS_CHM_to_RH.R",
+      "size_bytes": 4005,
+      "sha256": "046f600f8624a545f1105eaaf9559ead54c037ff51171309581027faf96c7364"
+    },
+    {
+      "path": "original_code/R/apply cal RH model.R",
+      "size_bytes": 3230,
+      "sha256": "c1a4fa141926d471156500af5b487096f4d909d318c07c9cb756bb5e388dec59"
+    },
+    {
+      "path": "original_code/R/fch&agbd.R",
+      "size_bytes": 23001,
+      "sha256": "dcedac24c6c8ee596ae3b0eb29bf5379e201cdc6ab241ec9ee1873114560228d"
+    },
+    {
+      "path": "original_code/README.md",
+      "size_bytes": 1978,
+      "sha256": "afe67a39f04ce5c54fd8269a132f71e9a15a4206604c65571ef7380e5ed08146"
+    },
+    {
+      "path": "references/REPOSITORY_DESIGN.md",
+      "size_bytes": 648,
+      "sha256": "cf1a5a75ea7c32e91b033dbc01accc61f51347867a5ea2ef2eb36c624f18b3af"
+    },
+    {
+      "path": "requirements.txt",
+      "size_bytes": 80,
+      "sha256": "9ec82eabd11d4edb2ad4fa3483de5f0330aa06ea7a57c6beb2800417f9a44262"
+    },
+    {
+      "path": "results/agbd_conditional_LOBO/LOBO_AGBD_all_metrics_by_block.csv",
+      "size_bytes": 3306,
+      "sha256": "2ffaff2b6476ed5c30025f1b5ddabffa806124826a80685d224c324a1831d060"
+    },
+    {
+      "path": "results/agbd_conditional_LOBO/LOBO_AGBD_all_metrics_pooled.csv",
+      "size_bytes": 264,
+      "sha256": "36495343ea32d3cded936a3c3bd07806a7c7c0dc24f8ed353b500ddc85374066"
+    },
+    {
+      "path": "results/agbd_conditional_LOBO/LOBO_AGBD_all_parameters.csv",
+      "size_bytes": 19115,
+      "sha256": "97ec31759460254c4d16a09525564623e4220286fab22950a491a53599a428ff"
+    },
+    {
+      "path": "results/agbd_conditional_LOBO/LOBO_AGBD_all_predictions.csv",
+      "size_bytes": 19227715,
+      "sha256": "e32972c66383073b7511996448518eb11bb87e6abc4f55969b683c926f176869"
+    },
+    {
+      "path": "results/agbd_conditional_LOBO/Table3_conditional_LOBO_recomputed.csv",
+      "size_bytes": 2305,
+      "sha256": "6824b9766a0b07245160fe90f64d43c5c55545d222f15bdb60e58643b18fbc84"
+    },
+    {
+      "path": "results/agbd_conditional_LOBO/Table3_reproduction_comparison.csv",
+      "size_bytes": 4453,
+      "sha256": "3fa136c7f754b3efced231ca00d275cba5d433df9015f937582ae344af10ea13"
+    },
+    {
+      "path": "results/data_audit/block_summary.csv",
+      "size_bytes": 1992,
+      "sha256": "eb06e2eb56097fbcd3b9c52fd6bb7ddb4deeade61a38d2e730160abdf743c7f7"
+    },
+    {
+      "path": "results/data_audit/cohort_keys_missing_from_broader_table.csv",
+      "size_bytes": 1105,
+      "sha256": "04e58405db9789c78442388ff7cd45efe362257961cd8ac9b7f157408601e93b"
+    },
+    {
+      "path": "results/data_audit/data_audit.json",
+      "size_bytes": 398,
+      "sha256": "bec1969e2f247e7648fde4ff2693590a1222e58e53629625f41981dcc087e437"
+    },
+    {
+      "path": "results/data_audit/stored_prediction_metrics.csv",
+      "size_bytes": 1763,
+      "sha256": "338f3874337059faf4f6d830f3320890b1c4df68c827338ed20cc925c955b87c"
+    },
+    {
+      "path": "results/environment.json",
+      "size_bytes": 235,
+      "sha256": "0b0c6d8e248e33fcfdfe9a377ea54d0f23425b18dc05ba05c1d4bff6d46a0cbc"
+    },
+    {
+      "path": "results/figures/LOBO_AGBD_residuals_by_block.pdf",
+      "size_bytes": 23617,
+      "sha256": "b0b42e2088e84e911b8614a2e63ad13498918a952b7d1bea0876b013ca2bdb44"
+    },
+    {
+      "path": "results/figures/LOBO_AGBD_residuals_by_block.png",
+      "size_bytes": 275900,
+      "sha256": "ab8ef64be7649361eadd7c4881e1a8bd06fcff0487515b89512829d833a4edcd"
+    },
+    {
+      "path": "results/figures/LOBO_AGBD_residuals_by_block.svg",
+      "size_bytes": 105295,
+      "sha256": "68e23c1693e39e07428c170ceee59ba0d4b6a190a6d0135610914bc444eddc1b"
+    },
+    {
+      "path": "results/figures/LOBO_AGBD_scatter.pdf",
+      "size_bytes": 170881,
+      "sha256": "8f77f32bb0749a443a7531d58603154d76f8f9d23b9035bf9121fca5588c2f99"
+    },
+    {
+      "path": "results/figures/LOBO_AGBD_scatter.png",
+      "size_bytes": 460739,
+      "sha256": "5e29dbfbe3222681ba1d903296a75061741849ac31ab83fdece49fcb8853356e"
+    },
+    {
+      "path": "results/figures/LOBO_AGBD_scatter.svg",
+      "size_bytes": 345584,
+      "sha256": "e3606f7448912a33e638a3edda45df2662a7c3e143e828d93c99bc9d20cee39d"
+    },
+    {
+      "path": "results/figures/regional_stored_columns_diagnostic.pdf",
+      "size_bytes": 27766,
+      "sha256": "2fb7a349a59076edbd5d5bfe4366ea32686d4b0f68fec5679179a1247692127c"
+    },
+    {
+      "path": "results/figures/regional_stored_columns_diagnostic.png",
+      "size_bytes": 263256,
+      "sha256": "8818f8fed3147fc285efb0c7efaa34825e02ec3386fe01ff8cdc6c11feda2051"
+    },
+    {
+      "path": "results/figures/regional_stored_columns_diagnostic.svg",
+      "size_bytes": 163909,
+      "sha256": "e30fd02ba230d133c782b3f987692973d92c94a719f46a0fbd678cd4d6551f3d"
+    },
+    {
+      "path": "results/regional_diagnostics/provenance_review.json",
+      "size_bytes": 543,
+      "sha256": "bc21fd05f81a80f7b48678d768f4e187d092bd1f889896396705b58fda07a7b4"
+    },
+    {
+      "path": "results/regional_diagnostics/slope_bin_summaries.csv",
+      "size_bytes": 6305,
+      "sha256": "3e7e00010699150b34365165d89344dc2afb060e1ef4daae4339095f9b3d815a"
+    },
+    {
+      "path": "results/rh_calibration/calibration_metrics.csv",
+      "size_bytes": 5117,
+      "sha256": "b593aa07cc4e310131ca052c0b9b814ae4f60ae85576b0f26c63ae2fc373cedd"
+    },
+    {
+      "path": "results/rh_calibration/coefficients.csv",
+      "size_bytes": 1735,
+      "sha256": "bde8e082dfe7b22a748bbf0a888f58eb2eda94d562186db3162b6a35c47c7842"
+    },
+    {
+      "path": "results/rh_calibration/recalibrated_RH.csv",
+      "size_bytes": 3886539,
+      "sha256": "4176eea8f13dd32f45c175325bb50a2e7f51686dac5814875bb478d74fe2e5d9"
+    },
+    {
+      "path": "results/rh_calibration/reproduction_check.json",
+      "size_bytes": 361,
+      "sha256": "07ffe24ffbd0094128c6cbe3d890e3a40644bce9e5b4857de439c35fa3c7140a"
+    },
+    {
+      "path": "results/rh_inverse_LOBO/.lobo_rh_predictions.csv.aiGd5s",
+      "size_bytes": 21495808,
+      "sha256": "e28a609f46a1d168a39987b2546813be253e8ac43501a7052bdcc4d4203e34c3"
+    },
+    {
+      "path": "results/rh_inverse_LOBO/lobo_rh_coefficients.csv",
+      "size_bytes": 29192,
+      "sha256": "9e05045826607b3d661e5c73a9b911530858556ffd2b0590c84646d7d6c20b1b"
+    },
+    {
+      "path": "results/rh_inverse_LOBO/lobo_rh_metrics_by_block.csv",
+      "size_bytes": 39381,
+      "sha256": "bbf0745784c778ab6f32829b38772bd0fd99eb800d51441ec8d9c7a9279e50dc"
+    },
+    {
+      "path": "results/rh_inverse_LOBO/lobo_rh_metrics_pooled.csv",
+      "size_bytes": 2913,
+      "sha256": "865fe1e721e623f1b1515f1a20a63bdc346083a31440fc9df025246936d5d426"
+    },
+    {
+      "path": "results/rh_inverse_LOBO/lobo_rh_predictions.csv",
+      "size_bytes": 22495916,
+      "sha256": "9ed06386e9550726f3f13dae03788ff7a6eb542a8fc39fc0bc6a631b39ffb7c3"
+    },
+    {
+      "path": "results/verification.json",
+      "size_bytes": 899,
+      "sha256": "9f845d02836b12f71f22302b828958411afb8ea8f1737dec047b44847547325c"
+    },
+    {
+      "path": "run_all.py",
+      "size_bytes": 1183,
+      "sha256": "49adc1a5e6445296e6de9559e1e03d61199fc132720ac9a6deb2318d8e6be78d"
+    },
+    {
+      "path": "src/ORIGIN.json",
+      "size_bytes": 431,
+      "sha256": "0d2384273a92c1e55b23dd7257bf7d9eb058147255a3ea679bf3a44d333d1c04"
+    },
+    {
+      "path": "src/__init__.py",
+      "size_bytes": 72,
+      "sha256": "34940caaf557c317e76378e00e29df92638d2f5a2c15eb8b317d5aa9559abd99"
+    },
+    {
+      "path": "src/common.py",
+      "size_bytes": 2611,
+      "sha256": "0044ac295db55ba7e2023b43fd05a4dae37db40f729e456d73194253aef227e8"
+    },
+    {
+      "path": "src/lobo_agbd.py",
+      "size_bytes": 14431,
+      "sha256": "d1586530649df7609bf1a4e8219d6d7395dd9279c93b54a8d0983afa1c0cd43b"
+    },
+    {
+      "path": "src/lobo_rh_inverse.py",
+      "size_bytes": 7275,
+      "sha256": "679958f676c1c596c4ae876afd8a3d2fc894ce98421598e70f7eb61cf2a5f252"
+    },
+    {
+      "path": "verify_reproduction.py",
+      "size_bytes": 3863,
+      "sha256": "b8f479314d911f968bdbc0eaad0856c6fb538717fcb964f7bc8a1a3ea571dec0"
+    }
+  ]
+}
