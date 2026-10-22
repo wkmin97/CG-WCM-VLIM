@@ -4,11 +4,8 @@ Analysis code and processed inputs accompanying the manuscript:
 
 **Restoring forest structural consistency for GEDI footprint-level aboveground biomass estimation through physically based waveform correction**
 
-Wankun Min, Wenli Huang, Liwei Yao, and Yumin Chen.
-
 The study examines terrain effects on simulated GEDI relative-height (RH) metrics and estimates aboveground biomass density (AGBD) using vertical profile information from 12 UAV lidar blocks.
 
-**Release status: repository preparation draft.** The runnable components reproduce the supplied processed-data calculations. The complete raw-data-to-manuscript workflow is not yet available. [Release status](docs/RELEASE_STATUS.md) identifies the missing inputs and the differences between the manuscript and the supplied implementation.
 
 ## Data
 
@@ -16,9 +13,8 @@ The processed data are included; no separate download is required for the number
 
 | File | Contents | Rows |
 | --- | --- | ---: |
-| [data_pred_all_data_v2.csv](data/processed/data_pred_all_data_v2.csv) | Analysis cohort, block IDs, reference RH/AGBD, simulated RH, and stored predictions | 9,790 |
-| [GEDI_SIM_metrics.csv](data/processed/GEDI_SIM_metrics.csv) | Broader simulator/reference metrics table used for provenance checks | 17,707 |
-| [GEDI_2019_with_Predicted_AGBD.csv](data/regional/GEDI_2019_with_Predicted_AGBD.csv) | Supplied regional GEDI and comparison-product columns | 7,832 |
+| [GEDI_SIM_metrics.csv](data/processed/GEDI_SIM_metrics.csv) | Broader simulator/reference metrics table used for provenance checks |- |
+
 
 See the [data dictionary](data/data_dictionary.csv), [input checksums](data/manifest.json), and [data notes](data/README.md). Original values and column names are preserved. The AGBD reference is model-derived and field-calibrated, rather than a direct field measurement at every footprint.
 
@@ -107,9 +103,7 @@ This is a different prediction rule from the stored reference-assisted calibrati
 | `config/block_mapping.csv` | Mapping of flight-block identifiers to manuscript block numbers, matched using Table 1 terrain ranges |
 | `data/processed/`, `data/regional/` | Unmodified processed input tables |
 | `data/reported/` | Manuscript Tables 2/3 and supplied numerical revision results |
-| `original_code/` | Selected original R/Python source files, preserved unchanged for provenance |
 | `docs/source_code_inventory.csv` | Inclusion/exclusion decisions for the supplied source archives |
-| `docs/MANUSCRIPT_OUTPUT_MAP.md` | Current manuscript figure/table mapping and reproduction coverage |
 | `docs/UPSTREAM_WORKFLOW.md` | Raw-data processing stages, available source, and missing dependencies |
 | `docs/GITHUB_UPLOAD_GUIDE.md` | Upload instructions and public-release preparation |
 
